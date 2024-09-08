@@ -1,6 +1,6 @@
 'use client'
 import { Swiper, SwiperSlide } from 'swiper/react'
-import { Autoplay, Pagination } from 'swiper/modules'
+import { Autoplay } from 'swiper/modules'
 import 'swiper/css'
 import 'swiper/css/pagination'
 import React from 'react'
@@ -15,11 +15,8 @@ const Hero = () => {
         delay: 2500,
         disableOnInteraction: false
       }}
-      pagination={{
-        clickable: true
-      }}
       navigation={true}
-      modules={[Autoplay, Pagination]}
+      modules={[Autoplay]}
       className='mySwiper'
     >
       <SwiperSlide className='px-3 py-5 lg:py-10'>
