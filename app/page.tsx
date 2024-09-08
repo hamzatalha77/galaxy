@@ -2,6 +2,12 @@ import React from 'react'
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import About from './components/About'
+import Footer from './components/Footer'
+import Info from './components/Info'
+import Products from './components/products'
+import CallToAction from './components/CallToAction'
+import Collections from './components/Collections'
+import Portfolio from './components/Portfolio'
 
 export default function page() {
   return (
@@ -9,6 +15,12 @@ export default function page() {
       <Navbar />
       <Hero />
       <About />
+      <Products />
+      <Info />
+      <Collections />
+      <Portfolio />
+      <CallToAction />
+      <Footer />
     </div>
   )
 }
