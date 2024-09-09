@@ -21,9 +21,9 @@ export default function page() {
       <Products />
       <Info />
       <Collections />
-      <Portfolio />
-      <Features />
       <CallToAction />
+      <Features />
+      <Portfolio />
       <Footer />
     </div>
   )

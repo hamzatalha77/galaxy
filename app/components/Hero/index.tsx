@@ -22,7 +22,7 @@ const Hero = () => {
       <SwiperSlide className='px-3 py-5 lg:py-10'>
         <div className='grid items-center justify-items-center gap-5 lg:grid-cols-2'>
           <div className='order-2 flex flex-col items-center justify-center lg:order-1'>
-            <p className='text-4xl font-bold text-orange-600 md:text-7xl'>
+            <p className='text-4xl font-bold text-second md:text-7xl'>
               25% OFF
             </p>
             <p className='text-4xl font-bold md:text-7xl'>SUMMER SALE</p>
@@ -46,7 +46,7 @@ const Hero = () => {
       <SwiperSlide className='px-3 py-5 lg:py-10'>
         <div className='grid items-center justify-items-center gap-5 lg:grid-cols-2'>
           <div className='order-2 flex flex-col items-center justify-center lg:order-1'>
-            <p className='text-4xl font-bold text-orange-600 md:text-7xl'>
+            <p className='text-4xl font-bold text-second md:text-7xl'>
               25% OFF
             </p>
             <p className='text-4xl font-bold md:text-7xl'>SUMMER SALE</p>
@@ -70,7 +70,7 @@ const Hero = () => {
       <SwiperSlide className='px-3 py-5 lg:py-10'>
         <div className='grid items-center justify-items-center gap-5 lg:grid-cols-2'>
           <div className='order-2 flex flex-col items-center justify-center lg:order-1'>
-            <p className='text-4xl font-bold text-orange-600 md:text-7xl'>
+            <p className='text-4xl font-bold text-second md:text-7xl'>
               25% OFF
             </p>
             <p className='text-4xl font-bold md:text-7xl'>SUMMER SALE</p>

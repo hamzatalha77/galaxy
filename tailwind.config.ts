@@ -12,7 +12,9 @@ const config: Config = {
         background: 'var(--background)',
         foreground: 'var(--foreground)',
         main: '#101820',
-        second: '#FEE715'
+        second: '#D4AF37',
+        third: '#DFBD69',
+        fourth: '#926F34'
       }
     }
   },
