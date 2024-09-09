@@ -6,7 +6,7 @@ const Collections = () => {
     <div className='bg-white py-6 sm:py-8 lg:py-12'>
       <div className='mx-auto max-w-screen-2xl px-4 md:px-8'>
         <h2 className='mb-8 text-center text-2xl font-bold text-gray-800 md:mb-12 lg:text-3xl'>
-          Collections
+          Shop our popular gift categories
         </h2>
 
         <div className='grid gap-4 sm:grid-cols-2 md:gap-6 lg:grid-cols-3 xl:grid-cols-4'>
@@ -24,7 +24,7 @@ const Collections = () => {
               />
 
               <div className='relative flex w-full flex-col rounded-lg bg-white p-4 text-center'>
-                <span className='text-gray-500'>Men</span>
+                <span className='text-gray-500'>womans</span>
                 <span className='text-lg font-bold text-gray-800 lg:text-xl'>
                   Business Causual
                 </span>

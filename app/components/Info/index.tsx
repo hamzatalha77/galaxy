@@ -2,7 +2,7 @@ import React from 'react'
 
 const Info = () => {
   return (
-    <div className='from-third to-fourth bg-gradient-to-r'>
+    <div className='bg-gradient-to-r from-third to-fourth'>
       <div className='mx-auto px-4 py-16 sm:max-w-xl md:max-w-full md:px-24 lg:max-w-screen-xl lg:px-8 lg:py-20'>
         <div className='max-w-xl sm:mx-auto lg:max-w-2xl'>
           <div className='mb-16 flex flex-col sm:mb-0 sm:text-center'>
@@ -55,10 +55,12 @@ const Info = () => {
                 </span>
                 Discover treasures that last a lifetime.
               </h2>
-              <p className='text-base text-black md:text-lg'>
-                Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                accusantium doloremque rem aperiam, eaque ipsa quae.
-              </p>
+              <div>
+                <p className='text-base text-black md:text-lg'>
+                  Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+                  accusantium doloremque rem aperiam, eaque ipsa quae.
+                </p>
+              </div>
             </div>
             <div>
               <a

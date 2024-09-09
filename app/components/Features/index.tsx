@@ -149,11 +149,10 @@ const Features = () => {
                 </svg>
               </div>
               <h3 className='py-5 text-lg font-bold text-white xl:text-xl'>
-                Build wealth with insurance planning
+                Fast Payments
               </h3>
               <p className='mb-8 text-xs font-normal text-white'>
-                Every life plan policy has a built-in wealth bonus, and we
-                contribute too{' '}
+                Once a price is agreed we can issue immediate payment.
               </p>
               <button className='flex items-center justify-between gap-2 rounded-full border border-solid border-gray-300 px-5 py-2 text-xs font-semibold text-white transition-all duration-500 hover:bg-white/5'>
                 View More
