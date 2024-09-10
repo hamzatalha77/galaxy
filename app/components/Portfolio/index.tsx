@@ -1,7 +1,5 @@
 import React from 'react'
 import Image from '../Image'
-// Assuming Image is in the same folder
-
 const Portfolio = () => {
   return (
     <div className='bg-white py-6 sm:py-8 lg:py-12'>

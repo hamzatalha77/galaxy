@@ -4,8 +4,8 @@ import { Autoplay } from 'swiper/modules'
 import 'swiper/css'
 import 'swiper/css/pagination'
 import React from 'react'
-import { IKImage } from 'imagekitio-next'
-const urlEndpoint = process.env.NEXT_PUBLIC_URL_ENDPOINT
+import Image from '../Image'
+
 const Hero = () => {
   return (
     <Swiper
@@ -32,9 +32,8 @@ const Hero = () => {
             </button>
           </div>
           <div className='order-1 lg:order-2'>
-            <IKImage
+            <Image
               className='h-80 w-80 object-cover lg:h-[500px] lg:w-[500px]'
-              urlEndpoint={urlEndpoint}
               path='carousel'
               width={500}
               height={500}
@@ -56,9 +55,8 @@ const Hero = () => {
             </button>
           </div>
           <div className='order-1 lg:order-2'>
-            <IKImage
+            <Image
               className='h-80 w-80 object-cover lg:h-[500px] lg:w-[500px]'
-              urlEndpoint={urlEndpoint}
               path='carousel'
               width={500}
               height={500}
@@ -80,9 +78,8 @@ const Hero = () => {
             </button>
           </div>
           <div className='order-1 lg:order-2'>
-            <IKImage
+            <Image
               className='h-80 w-80 object-cover lg:h-[500px] lg:w-[500px]'
-              urlEndpoint={urlEndpoint}
               path='carousel'
               width={500}
               height={500}

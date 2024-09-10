@@ -1,8 +1,7 @@
 'use client'
-
 import React from 'react'
-import { IKImage } from 'imagekitio-next'
-const urlEndpoint = process.env.NEXT_PUBLIC_URL_ENDPOINT
+import Image from '../Image'
+
 const About = () => {
   return (
     <div className='relative flex flex-col-reverse py-16 lg:flex-col lg:pb-0 lg:pt-0'>
@@ -15,9 +14,8 @@ const About = () => {
         >
           <path d='M50 0H100L50 100H0L50 0Z' />
         </svg>
-        <IKImage
+        <Image
           className='h-56 w-full rounded object-cover shadow-lg md:h-96 lg:h-full lg:rounded-none lg:shadow-none'
-          urlEndpoint={urlEndpoint}
           path='about'
           alt='about'
           width={1260}
