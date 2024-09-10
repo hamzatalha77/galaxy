@@ -10,7 +10,7 @@ const Navbar = () => {
   const toggleDropdown = () => setDropdownOpen(!dropdownOpen)
 
   return (
-    <nav className='border-b-default border-prime-gray-200 fixed z-50 w-full border-b border-solid border-gray-200 bg-white py-3'>
+    <nav className='border-b-default border-prime-gray-200 relative z-50 w-full border-b border-solid border-gray-200 py-3'>
       <div className='container mx-auto'>
         <div className='flex w-full flex-col lg:flex-row'>
           <div className='flex justify-between lg:flex-row'>
@@ -58,7 +58,6 @@ const Navbar = () => {
                   />
                 </g>
               </svg>
-              <span>Gleam & Grace</span>
             </a>
             <button
               data-collapse-toggle='megamenu-cta'
@@ -138,7 +137,7 @@ const Navbar = () => {
                 </button>
                 {dropdownOpen && (
                   <div className='dropdown-menu left-0 right-0 top-full z-10 m-auto max-w-screen-2xl rounded-lg bg-white p-4 shadow-lg lg:absolute xl:px-8'>
-                    <div className='grid grid-cols-1 lg:grid-cols-2 lg:grid-cols-3'>
+                    <div className='grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3'>
                       <ul className='text-sm text-gray-700'>
                         <h6 className='mb-2 text-sm font-medium text-gray-500'>
                           Features

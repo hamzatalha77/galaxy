@@ -3,9 +3,9 @@ import Image from '../Image'
 
 const Collections = () => {
   return (
-    <div className='bg-white py-6 sm:py-8 lg:py-12'>
+    <div className='py-6 sm:py-8 lg:py-12'>
       <div className='mx-auto max-w-screen-2xl px-4 md:px-8'>
-        <h2 className='mb-8 text-center text-2xl font-bold text-gray-800 md:mb-12 lg:text-3xl'>
+        <h2 className='mb-8 text-start text-2xl font-bold text-gray-800 md:mb-12 lg:text-3xl'>
           Shop our popular gift categories
         </h2>
 

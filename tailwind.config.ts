@@ -11,10 +11,13 @@ const config: Config = {
       colors: {
         background: 'var(--background)',
         foreground: 'var(--foreground)',
-        main: '#101820',
+        main: '#F0ECE5',
         second: '#D4AF37',
         third: '#DFBD69',
-        fourth: '#926F34'
+        fourth: '#926F34',
+        GoldenTop: '#d8ab4e',
+        GoldenBottom: ' #b48c36',
+        CharcoalBlack: '#040404'
       }
     }
   },

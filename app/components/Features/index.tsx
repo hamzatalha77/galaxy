@@ -7,26 +7,12 @@ const Features = () => {
       <div className='mx-auto max-w-7xl px-4 sm:px-6 lg:px-8'>
         <div className='mb-14 text-center'>
           <h2 className='mb-6 max-w-max text-center text-4xl font-bold leading-[3.25rem] text-gray-900 lg:mx-auto lg:max-w-3xl'>
-            Developed from scratch for seamless online functionality
+            Exceptional Services for Your Timeless Jewelry
           </h2>
           <p className='mb-8 text-base font-normal text-gray-500 lg:mx-auto lg:max-w-2xl'>
             Using technology to make finance simpler, smarter and more
-            rewarding.{' '}
+            rewarding.
           </p>
-          <div className='mx-auto flex max-w-lg flex-col justify-center gap-5 md:max-w-2xl md:flex-row lg:max-w-full'>
-            <a
-              href='javascript:;'
-              className='flex cursor-pointer items-center justify-center rounded-full bg-indigo-600 px-6 py-3 text-sm font-semibold text-white transition-all duration-500 hover:bg-indigo-700 focus:outline-none'
-            >
-              Get started
-            </a>
-            <a
-              href='javascript:;'
-              className='flex cursor-pointer items-center justify-center rounded-full bg-indigo-50 px-6 py-3 text-sm font-semibold text-indigo-600 transition-all duration-500 hover:bg-indigo-100 focus:outline-none'
-            >
-              Learn more
-            </a>
-          </div>
         </div>
         <div className='mx-auto grid max-w-lg grid-cols-1 gap-8 md:max-w-2xl md:grid-cols-2 lg:max-w-full lg:grid-cols-4'>
           <div className='relative h-auto w-full md:col-span-2'>
@@ -50,11 +36,11 @@ const Features = () => {
                   </svg>
                 </div>
                 <h3 className='w-full py-5 text-lg font-bold text-white xl:w-64 xl:text-xl'>
-                  Accomplish tasks swiftly with online tools.
+                  Custom Jewelry Design
                 </h3>
                 <p className='mb-8 w-full text-xs font-normal text-gray-300 xl:w-64'>
-                  Get quoted and covered in under 10 minutes online. no
-                  paperwork or waiting any more{' '}
+                  Collaborate with our experts to create a one-of-a-kind piece
+                  that reflects your unique style.
                 </p>
                 <button className='flex items-center justify-between gap-2 rounded-full border border-solid border-gray-300 px-5 py-2 text-xs font-semibold text-white transition-all duration-500 hover:bg-white/5'>
                   View More
@@ -105,10 +91,11 @@ const Features = () => {
                 </svg>
               </div>
               <h3 className='py-5 text-lg font-bold text-white xl:text-xl'>
-                Improved technology yields greater value
+                Jewelry Repair & Restoration
               </h3>
               <p className='mb-8 text-xs font-normal text-white'>
-                We’ve eliminated old analogue process with state-of-the art tech{' '}
+                Restore your treasured jewelry to its original beauty with our
+                professional repair services.
               </p>
               <button className='flex items-center justify-between gap-2 rounded-full border border-solid border-gray-300 px-5 py-2 text-xs font-semibold text-white transition-all duration-500 hover:bg-white/5'>
                 View More
@@ -149,10 +136,11 @@ const Features = () => {
                 </svg>
               </div>
               <h3 className='py-5 text-lg font-bold text-white xl:text-xl'>
-                Fast Payments
+                Engraving Services
               </h3>
               <p className='mb-8 text-xs font-normal text-white'>
-                Once a price is agreed we can issue immediate payment.
+                Personalize your jewelry with custom engraving, perfect for
+                adding meaningful touches to any piece.
               </p>
               <button className='flex items-center justify-between gap-2 rounded-full border border-solid border-gray-300 px-5 py-2 text-xs font-semibold text-white transition-all duration-500 hover:bg-white/5'>
                 View More
