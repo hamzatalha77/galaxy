@@ -13,7 +13,7 @@ const Categories = () => {
             <div className='block'>
               <Image
                 className='rounded-3xl object-cover'
-                path='testimonial (2).png'
+                path='Gold/gold (6).jpg'
                 alt='Project Achievements of Sketch'
                 width={384}
                 height={406}
@@ -51,7 +51,7 @@ const Categories = () => {
             <div className='block'>
               <Image
                 className='rounded-3xl object-cover'
-                path='testimonial (1).png'
+                path='Gold/gold (7).jpg'
                 alt='Project Achievements of Figma'
                 width={384}
                 height={406}
@@ -89,7 +89,7 @@ const Categories = () => {
             <div className='block'>
               <Image
                 className='rounded-3xl object-cover'
-                path='testimonial (3).png'
+                path='Gold/gold (1).jpg'
                 alt='Project Achievements of Frame.io'
                 width={384}
                 height={406}
@@ -127,7 +127,7 @@ const Categories = () => {
             <div className='block'>
               <Image
                 className='rounded-3xl object-cover'
-                path='testimonial (3).png'
+                path='Gold/gold (6).jpg'
                 alt='Project Achievements of Frame.io'
                 width={384}
                 height={406}
