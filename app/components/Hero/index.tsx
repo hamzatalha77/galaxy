@@ -34,7 +34,7 @@ const Hero = () => {
           <div className='order-1 lg:order-2'>
             <Image
               className='h-80 w-80 object-cover lg:h-[500px] lg:w-[500px]'
-              path='carousel'
+              path='Gold/gold (2).jpg'
               width={500}
               height={500}
               alt='hero'
@@ -57,7 +57,7 @@ const Hero = () => {
           <div className='order-1 lg:order-2'>
             <Image
               className='h-80 w-80 object-cover lg:h-[500px] lg:w-[500px]'
-              path='carousel'
+              path='Gold/gold (22).jpg'
               width={500}
               height={500}
               alt='hero'
@@ -80,7 +80,7 @@ const Hero = () => {
           <div className='order-1 lg:order-2'>
             <Image
               className='h-80 w-80 object-cover lg:h-[500px] lg:w-[500px]'
-              path='carousel'
+              path='Gold/gold (4).jpg'
               width={500}
               height={500}
               alt='hero'
