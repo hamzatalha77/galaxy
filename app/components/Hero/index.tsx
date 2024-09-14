@@ -27,7 +27,7 @@ const Hero = () => {
             </p>
             <p className='text-4xl font-bold md:text-7xl'>SUMMER SALE</p>
             <p className='mt-2 text-sm md:text-lg'>For limited time only!</p>
-            <button className='mt-10 bg-black px-5 py-2 text-lg text-white hover:bg-zinc-800 md:text-2xl'>
+            <button className='shadow-xs mt-10 cursor-pointer bg-fourth px-5 py-2 text-center text-lg font-semibold text-white transition-all duration-500 hover:bg-third md:text-2xl'>
               Shop Now
             </button>
           </div>
@@ -50,7 +50,7 @@ const Hero = () => {
             </p>
             <p className='text-4xl font-bold md:text-7xl'>SUMMER SALE</p>
             <p className='mt-2 text-sm md:text-lg'>For limited time only!</p>
-            <button className='mt-10 bg-black px-5 py-2 text-lg text-white hover:bg-zinc-800 md:text-2xl'>
+            <button className='shadow-xs mt-10 cursor-pointer bg-fourth px-5 py-2 text-center text-lg font-semibold text-white transition-all duration-500 hover:bg-third md:text-2xl'>
               Shop Now
             </button>
           </div>
@@ -73,7 +73,7 @@ const Hero = () => {
             </p>
             <p className='text-4xl font-bold md:text-7xl'>SUMMER SALE</p>
             <p className='mt-2 text-sm md:text-lg'>For limited time only!</p>
-            <button className='mt-10 bg-black px-5 py-2 text-lg text-white hover:bg-zinc-800 md:text-2xl'>
+            <button className='shadow-xs mt-10 cursor-pointer bg-fourth px-5 py-2 text-center text-lg font-semibold text-white transition-all duration-500 hover:bg-third md:text-2xl'>
               Shop Now
             </button>
           </div>

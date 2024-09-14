@@ -27,7 +27,7 @@ const Products = () => {
               <Image
                 width={335}
                 height={320}
-                path='products/product (1).avif'
+                path='Gold/gold (8).jpg'
                 alt='Photo by Rachit Tank'
                 className='h-full w-full object-cover object-center transition duration-200 group-hover:scale-110'
               />
@@ -62,7 +62,7 @@ const Products = () => {
               <Image
                 width={335}
                 height={320}
-                path='products/product (2).avif'
+                path='Gold/gold (9).jpg'
                 alt='Photo by Rachit Tank'
                 className='h-full w-full object-cover object-center transition duration-200 group-hover:scale-110'
               />
@@ -92,7 +92,7 @@ const Products = () => {
               <Image
                 width={335}
                 height={320}
-                path='products/product (3).avif'
+                path='Gold/gold (10).jpg'
                 alt='Photo by Rachit Tank'
                 className='h-full w-full object-cover object-center transition duration-200 group-hover:scale-110'
               />
@@ -122,7 +122,7 @@ const Products = () => {
               <Image
                 width={335}
                 height={320}
-                path='products/product (4).avif'
+                path='Gold/gold (11).jpg'
                 alt='Photo by Rachit Tank'
                 className='h-full w-full object-cover object-center transition duration-200 group-hover:scale-110'
               />
@@ -152,7 +152,7 @@ const Products = () => {
               <Image
                 width={335}
                 height={320}
-                path='products/product (5).avif'
+                path='Gold/gold (12).jpg'
                 alt='Photo by Rachit Tank'
                 className='h-full w-full object-cover object-center transition duration-200 group-hover:scale-110'
               />
@@ -182,7 +182,7 @@ const Products = () => {
               <Image
                 width={335}
                 height={320}
-                path='products/product (6).avif'
+                path='Gold/gold (13).jpg'
                 alt='Photo by Rachit Tank'
                 className='h-full w-full object-cover object-center transition duration-200 group-hover:scale-110'
               />
@@ -212,7 +212,7 @@ const Products = () => {
               <Image
                 width={335}
                 height={320}
-                path='products/product (7).avif'
+                path='Gold/gold (15).jpg'
                 alt='Photo by Rachit Tank'
                 className='h-full w-full object-cover object-center transition duration-200 group-hover:scale-110'
               />
@@ -246,7 +246,7 @@ const Products = () => {
               <Image
                 width={335}
                 height={320}
-                path='products/product (8).avif'
+                path='Gold/gold (17).jpg'
                 alt='Photo by Rachit Tank'
                 className='h-full w-full object-cover object-center transition duration-200 group-hover:scale-110'
               />
