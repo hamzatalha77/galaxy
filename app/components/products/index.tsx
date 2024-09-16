@@ -47,7 +47,7 @@ const Products = () => {
 
               <div className='flex items-end gap-2'>
                 <span className='font-bold text-gray-800 lg:text-lg'>
-                  $15.00
+                  $10.00
                 </span>
                 <span className='mb-0.5 text-red-500 line-through'>$30.00</span>
               </div>
