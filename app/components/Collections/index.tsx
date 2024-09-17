@@ -84,7 +84,7 @@ const Collections = () => {
               <Image
                 width={600}
                 height={700}
-                path='collections/collection 1'
+                path='Silver/silver (6).webp'
                 alt='Photo by Rachit Tank'
                 className='absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110'
               />
