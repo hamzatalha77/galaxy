@@ -18,7 +18,7 @@ const Collections = () => {
               <Image
                 width={600}
                 height={700}
-                path='collections/collection 2'
+                path='Silver/silver (6).webp'
                 alt='Photo by Rachit Tank'
                 className='absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110'
               />
@@ -40,7 +40,7 @@ const Collections = () => {
               <Image
                 width={600}
                 height={700}
-                path='collections/collection 4'
+                path='Silver/silver (7).webp'
                 alt='Photo by Rachit Tank'
                 className='absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110'
               />
@@ -62,7 +62,7 @@ const Collections = () => {
               <Image
                 width={600}
                 height={700}
-                path='collections/collection 3'
+                path='Silver/silver (8).webp'
                 alt='Photo by Rachit Tank'
                 className='absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110'
               />
