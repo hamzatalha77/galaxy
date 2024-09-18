@@ -32,7 +32,7 @@ const CallToAction = () => {
           <div className='order-first h-48 w-full bg-gray-700 sm:order-none sm:h-auto sm:w-1/2 lg:w-3/5'>
             <Image
               className='h-full w-full object-cover object-center'
-              path='CallToAction'
+              path='Silver/silver (10).jpg'
               width={1000}
               height={500}
               alt='Photo by Dom Hill'

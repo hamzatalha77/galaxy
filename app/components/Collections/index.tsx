@@ -23,7 +23,7 @@ const Collections = () => {
                 className='absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110'
               />
 
-              <div className='relative flex w-full flex-col rounded-lg p-4 text-center backdrop-blur-sm'>
+              <div className='relative flex w-full flex-col rounded-lg p-4 text-center backdrop-blur-xl'>
                 {/* <span className='text-gray-500'>womans</span> */}
                 <span className='text-lg font-bold text-gray-800 lg:text-xl'>
                   Business
@@ -45,7 +45,7 @@ const Collections = () => {
                 className='absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110'
               />
 
-              <div className='relative flex w-full flex-col rounded-lg p-4 text-center backdrop-blur-sm'>
+              <div className='relative flex w-full flex-col rounded-lg p-4 text-center backdrop-blur-xl'>
                 {/* <span className='text-gray-500'>Women</span> */}
                 <span className='text-lg font-bold text-gray-800 lg:text-xl'>
                   Summer Season
@@ -67,7 +67,7 @@ const Collections = () => {
                 className='absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110'
               />
 
-              <div className='relative flex w-full flex-col rounded-lg p-4 text-center backdrop-blur-sm'>
+              <div className='relative flex w-full flex-col rounded-lg p-4 text-center backdrop-blur-xl'>
                 {/* <span className='text-gray-500'>Men</span> */}
                 <span className='text-lg font-bold text-gray-800 lg:text-xl'>
                   Streetwear
@@ -89,7 +89,7 @@ const Collections = () => {
                 className='absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110'
               />
 
-              <div className='relative flex w-full flex-col rounded-lg p-4 text-center backdrop-blur-sm'>
+              <div className='relative flex w-full flex-col rounded-lg p-4 text-center backdrop-blur-xl'>
                 {/* <span className='text-gray-500'>Women</span> */}
                 <span className='text-lg font-bold text-gray-800 lg:text-xl'>
                   Sale
