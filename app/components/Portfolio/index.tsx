@@ -25,7 +25,7 @@ const Portfolio = () => {
             className='group relative flex h-48 items-end overflow-hidden rounded-lg bg-gray-100 shadow-lg md:h-80'
           >
             <Image
-              path='portfolio (1).avif'
+              path='jewelry (5).jpg'
               width={469}
               height={320}
               alt='Photo by Minh Pham'
@@ -44,7 +44,7 @@ const Portfolio = () => {
             className='group relative flex h-48 items-end overflow-hidden rounded-lg bg-gray-100 shadow-lg md:col-span-2 md:h-80'
           >
             <Image
-              path='portfolio (2).avif'
+              path='jewelry (3).jpg'
               width={970}
               height={320}
               alt='Photo by Magicle'
@@ -63,7 +63,7 @@ const Portfolio = () => {
             className='group relative flex h-48 items-end overflow-hidden rounded-lg bg-gray-100 shadow-lg md:col-span-2 md:h-80'
           >
             <Image
-              path='portfolio (3).avif'
+              path='jewelry (2).jpg'
               width={970}
               height={320}
               alt='Photo by Martin Sanchez'
@@ -82,7 +82,7 @@ const Portfolio = () => {
             className='group relative flex h-48 items-end overflow-hidden rounded-lg bg-gray-100 shadow-lg md:h-80'
           >
             <Image
-              path='portfolio (4).avif'
+              path='jewelry (4).jpg'
               width={469}
               height={320}
               alt='Photo by Lorenzo Herrera'

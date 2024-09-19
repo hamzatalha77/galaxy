@@ -16,7 +16,7 @@ const Features = () => {
         </div>
         <div className='mx-auto grid max-w-lg grid-cols-1 gap-8 md:max-w-2xl md:grid-cols-2 lg:max-w-full lg:grid-cols-4'>
           <div className='relative h-auto w-full md:col-span-2'>
-            <div className='flex flex-row flex-wrap justify-between rounded-2xl bg-gray-800'>
+            <div className='flex flex-row flex-wrap justify-between rounded-2xl bg-fourth'>
               <div className='w-full p-5 md:w-1/2 xl:p-8'>
                 <div className='block'>
                   <svg
@@ -73,7 +73,7 @@ const Features = () => {
             </div>
           </div>
           <div className='relative h-auto w-full'>
-            <div className='h-full rounded-2xl bg-indigo-500 p-5 xl:p-8'>
+            <div className='h-full rounded-2xl bg-GoldenBottom p-5 xl:p-8'>
               <div className='block'>
                 <svg
                   width='30'
@@ -118,7 +118,7 @@ const Features = () => {
             </div>
           </div>
           <div className='relative h-auto w-full'>
-            <div className='h-full rounded-2xl bg-violet-500 p-5 xl:p-8'>
+            <div className='h-full rounded-2xl bg-GoldenTop p-5 xl:p-8'>
               <div className='block'>
                 <svg
                   width='30'
