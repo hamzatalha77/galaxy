@@ -127,7 +127,7 @@ const Categories = () => {
             <div className='block'>
               <Image
                 className='rounded-3xl object-cover'
-                path='Gold/gold (6).jpg'
+                path='Gold/gold (4).jpg'
                 alt='Project Achievements of Frame.io'
                 width={384}
                 height={406}
