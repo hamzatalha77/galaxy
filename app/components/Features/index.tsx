@@ -63,7 +63,7 @@ const Features = () => {
               </div>
               <div className='relative hidden h-auto md:block md:w-1/2'>
                 <Image
-                  path='Features.png'
+                  path='coin (2).gif'
                   width={258}
                   height={302}
                   alt='Header tailwind Section'
