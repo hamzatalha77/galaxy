@@ -136,7 +136,7 @@ const Categories = () => {
             <div className='flex w-full max-w-[406px] items-center justify-between lg:max-w-full lg:px-0'>
               <div className='block'>
                 <h4 className='font-manrope mb-1 text-2xl font-semibold text-gray-900'>
-                 Si
+                  Sil
                 </h4>
                 <p className='text-lg font-medium text-gray-400'>
                   User Interface Design
