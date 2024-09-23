@@ -139,7 +139,7 @@ const Categories = () => {
                   Silver
                 </h4>
                 <p className='text-lg font-medium text-gray-400'>
-                  User Interface Design
+                  plat
                 </p>
               </div>
               <button className='rounded-full border border-black px-3.5 py-2 transition-all duration-300 group-hover:bg-black'>
