@@ -136,7 +136,7 @@ const Categories = () => {
                 <h4 className='font-manrope mb-1 text-2xl font-semibold text-gray-900'>
                   Silver
                 </h4>
-                <p className='text-lg font-medium text-gray-400'>plat</p>
+                <p className='text-lg font-medium text-gray-400'>plats</p>
               </div>
               <button className='rounded-full border border-black px-3.5 py-2 transition-all duration-300 group-hover:bg-black'>
                 <svg
