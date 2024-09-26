@@ -1,11 +1,11 @@
+import Image from '@/app/components/Image'
 import React from 'react'
-import Image from '../../Image'
 
 const SignUp = () => {
   return (
     <div className='relative'>
       <Image
-        path='login'
+        path='login.jpg'
         className='absolute inset-0 h-full w-full object-cover'
         alt='login'
         width={1260}

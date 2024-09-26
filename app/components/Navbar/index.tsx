@@ -1,6 +1,7 @@
 'use client'
 import { useState } from 'react'
 import Image from '../Image'
+import Link from 'next/link'
 
 const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false)
@@ -413,14 +414,12 @@ const Navbar = () => {
               </li>
             </ul>
             <div className='ml-auto flex flex-col justify-center gap-y-4 lg:flex-row lg:items-center'>
-              {/* <button className='shadow-xs cursor-pointer rounded-full bg-indigo-50 px-6 py-3 text-center text-sm font-semibold text-indigo-600 transition-all duration-500 hover:bg-indigo-100'>
-                {' '}
-                Login{' '}
-              </button> */}
-              <button className='shadow-xs cursor-pointer bg-fourth px-6 py-3 text-center text-sm font-semibold text-white transition-all duration-500 hover:bg-third lg:ml-5'>
-                {' '}
-                Sign up{' '}
-              </button>
+              <Link
+                href='/pages/SignIn'
+                className='shadow-xs cursor-pointer bg-fourth px-6 py-3 text-center text-sm font-semibold text-white transition-all duration-500 hover:bg-third lg:ml-5'
+              >
+                Sign up
+              </Link>
             </div>
           </div>
         </div>
