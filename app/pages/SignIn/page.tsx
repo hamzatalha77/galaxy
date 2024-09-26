@@ -5,13 +5,13 @@ const SignIn = () => {
   return (
     <div className='relative'>
       <Image
-     path='login.jpg'
+        path='register (2).jpg'
         className='absolute inset-0 h-full w-full object-cover'
         alt='login'
         width={1260}
         height={750}
       />
-      <div className='relative bg-gray-900 bg-opacity-75'>
+      <div className='relative'>
         <div className='mx-auto px-4 py-16 sm:max-w-xl md:max-w-full md:px-24 lg:max-w-screen-xl lg:px-8 lg:py-20'>
           <div className='flex flex-col items-center justify-between xl:flex-row'>
             <div className='mb-12 w-full max-w-xl xl:mb-0 xl:w-7/12 xl:pr-16'>

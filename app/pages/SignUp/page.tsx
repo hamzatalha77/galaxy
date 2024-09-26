@@ -5,32 +5,32 @@ const SignUp = () => {
   return (
     <div className='relative'>
       <Image
-        path='login.jpg'
+        path='register (2).jpg'
         className='absolute inset-0 h-full w-full object-cover'
         alt='login'
         width={1260}
         height={750}
       />
-      <div className='relative bg-gray-900 bg-opacity-75'>
+      <div className='relative'>
         <div className='mx-auto px-4 py-16 sm:max-w-xl md:max-w-full md:px-24 lg:max-w-screen-xl lg:px-8 lg:py-20'>
           <div className='flex flex-col items-center justify-between xl:flex-row'>
             <div className='mb-12 w-full max-w-xl xl:mb-0 xl:w-7/12 xl:pr-16'>
               <h2 className='mb-6 max-w-lg font-sans text-3xl font-bold tracking-tight text-white sm:text-4xl sm:leading-none'>
-                The quick, brown fox <br className='hidden md:block' />
-                jumps over a{' '}
-                <span className='text-teal-accent-400'>lazy dog</span>
+                Welcome Back to
+                <br className='hidden md:block' />
+                <span className='text-teal-accent-400'>LuxeGleam</span>
               </h2>
-              <p className='mb-4 max-w-xl text-base text-gray-400 md:text-lg'>
-                Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                accusantium doloremque laudan, totam rem aperiam, eaque ipsa
-                quae.
+              <p className='mb-4 max-w-xl text-base text-white md:text-lg'>
+                Create an account to enjoy exclusive perks, track your orders,
+                and discover our latest collections. Your journey to timeless
+                elegance starts here!
               </p>
               <a
                 href='/'
                 aria-label=''
                 className='text-teal-accent-400 hover:text-teal-accent-700 inline-flex items-center font-semibold tracking-wider transition-colors duration-200'
               >
-                Learn more
+                Join Us
                 <svg
                   className='ml-2 inline-block w-3'
                   fill='currentColor'
@@ -48,34 +48,18 @@ const SignUp = () => {
                 <form>
                   <div className='mb-1 sm:mb-2'>
                     <label
-                      htmlFor='firstName'
+                      htmlFor='fullName'
                       className='mb-1 inline-block font-medium'
                     >
-                      First name
+                      Full name
                     </label>
                     <input
-                      placeholder='John'
+                      placeholder='Type Your Full Name'
                       required
                       type='text'
                       className='focus:border-deep-purple-accent-400 focus:shadow-outline mb-2 h-12 w-full flex-grow appearance-none rounded border border-gray-300 bg-white px-4 shadow-sm transition duration-200 focus:outline-none'
-                      id='firstName'
-                      name='firstName'
-                    />
-                  </div>
-                  <div className='mb-1 sm:mb-2'>
-                    <label
-                      htmlFor='lastName'
-                      className='mb-1 inline-block font-medium'
-                    >
-                      Last name
-                    </label>
-                    <input
-                      placeholder='Doe'
-                      required
-                      type='text'
-                      className='focus:border-deep-purple-accent-400 focus:shadow-outline mb-2 h-12 w-full flex-grow appearance-none rounded border border-gray-300 bg-white px-4 shadow-sm transition duration-200 focus:outline-none'
-                      id='lastName'
-                      name='lastName'
+                      id='fullName'
+                      name='fullName'
                     />
                   </div>
                   <div className='mb-1 sm:mb-2'>
@@ -86,18 +70,35 @@ const SignUp = () => {
                       E-mail
                     </label>
                     <input
-                      placeholder='john.doe@example.org'
+                      placeholder='Type Your Email'
                       required
-                      type='text'
+                      type='email'
                       className='focus:border-deep-purple-accent-400 focus:shadow-outline mb-2 h-12 w-full flex-grow appearance-none rounded border border-gray-300 bg-white px-4 shadow-sm transition duration-200 focus:outline-none'
                       id='email'
                       name='email'
                     />
                   </div>
+                  <div className='mb-1 sm:mb-2'>
+                    <label
+                      htmlFor='password'
+                      className='mb-1 inline-block font-medium'
+                    >
+                      Password
+                    </label>
+                    <input
+                      placeholder='Type Your Password'
+                      required
+                      type='password'
+                      className='focus:border-deep-purple-accent-400 focus:shadow-outline mb-2 h-12 w-full flex-grow appearance-none rounded border border-gray-300 bg-white px-4 shadow-sm transition duration-200 focus:outline-none'
+                      id='password'
+                      name='password'
+                    />
+                  </div>
+
                   <div className='mb-2 mt-4 sm:mb-4'>
                     <button
                       type='submit'
-                      className='bg-deep-purple-accent-400 hover:bg-deep-purple-accent-700 focus:shadow-outline inline-flex h-12 w-full items-center justify-center rounded px-6 font-medium tracking-wide text-white shadow-md transition duration-200 focus:outline-none'
+                      className='focus:shadow-outline inline-flex h-12 w-full items-center justify-center rounded bg-fourth px-6 font-medium tracking-wide text-white shadow-md transition duration-200 hover:bg-third focus:outline-none'
                     >
                       Subscribe
                     </button>
