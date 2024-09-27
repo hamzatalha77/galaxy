@@ -1,4 +1,5 @@
 import Image from '@/app/components/Image'
+import Link from 'next/link'
 import React from 'react'
 
 const SignIn = () => {
@@ -88,7 +89,14 @@ const SignIn = () => {
                     </button>
                   </div>
                   <p className='text-xs text-gray-600 sm:text-sm'>
-                    We respect your privacy. Unsubscribe at any time.
+                    Don`t you have an account{' '}
+                    <Link
+                      href='/pages/SignUp'
+                      className='text-lg text-second decoration-solid'
+                    >
+                      {' '}
+                      Sign Up
+                    </Link>
                   </p>
                 </form>
               </div>
