@@ -100,7 +100,7 @@ const SignUp = () => {
                       type='submit'
                       className='focus:shadow-outline inline-flex h-12 w-full items-center justify-center rounded bg-fourth px-6 font-medium tracking-wide text-white shadow-md transition duration-200 hover:bg-third focus:outline-none'
                     >
-                      Subscribe
+                      Register
                     </button>
                   </div>
                   <p className='text-xs text-gray-600 sm:text-sm'>

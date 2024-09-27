@@ -43,63 +43,48 @@ const SignIn = () => {
             <div className='w-full max-w-xl xl:w-5/12 xl:px-8'>
               <div className='rounded bg-white p-7 shadow-2xl sm:p-10'>
                 <h3 className='mb-4 text-xl font-semibold sm:mb-6 sm:text-center sm:text-2xl'>
-                  Sign up for updates
+                  Sign In To Connect Your Account
                 </h3>
                 <form>
                   <div className='mb-1 sm:mb-2'>
                     <label
-                      htmlFor='firstName'
+                      htmlFor='Username'
                       className='mb-1 inline-block font-medium'
                     >
-                      First name
+                      Username Or Email
                     </label>
                     <input
-                      placeholder='John'
+                      placeholder='Type Your Username or Email'
                       required
                       type='text'
                       className='focus:border-deep-purple-accent-400 focus:shadow-outline mb-2 h-12 w-full flex-grow appearance-none rounded border border-gray-300 bg-white px-4 shadow-sm transition duration-200 focus:outline-none'
-                      id='firstName'
-                      name='firstName'
+                      id='Username'
+                      name='Username'
                     />
                   </div>
+
                   <div className='mb-1 sm:mb-2'>
                     <label
-                      htmlFor='lastName'
-                      className='mb-1 inline-block font-medium'
-                    >
-                      Last name
-                    </label>
-                    <input
-                      placeholder='Doe'
-                      required
-                      type='text'
-                      className='focus:border-deep-purple-accent-400 focus:shadow-outline mb-2 h-12 w-full flex-grow appearance-none rounded border border-gray-300 bg-white px-4 shadow-sm transition duration-200 focus:outline-none'
-                      id='lastName'
-                      name='lastName'
-                    />
-                  </div>
-                  <div className='mb-1 sm:mb-2'>
-                    <label
-                      htmlFor='email'
+                      htmlFor='password'
                       className='mb-1 inline-block font-medium'
                     >
                       E-mail
                     </label>
                     <input
-                      placeholder='john.doe@example.org'
+                      placeholder='Type Your Password'
                       required
-                      type='text'
+                      type='password'
                       className='focus:border-deep-purple-accent-400 focus:shadow-outline mb-2 h-12 w-full flex-grow appearance-none rounded border border-gray-300 bg-white px-4 shadow-sm transition duration-200 focus:outline-none'
-                      id='email'
-                      name='email'
+                      id='password'
+                      name='password'
                     />
                   </div>
                   <div className='mb-2 mt-4 sm:mb-4'>
                     <button
                       type='submit'
-                      className='bg-deep-purple-accent-400 hover:bg-deep-purple-accent-700 focus:shadow-outline inline-flex h-12 w-full items-center justify-center rounded px-6 font-medium tracking-wide text-white shadow-md transition duration-200 focus:outline-none'
+                      className='focus:shadow-outline inline-flex h-12 w-full items-center justify-center rounded bg-fourth px-6 font-medium tracking-wide text-white shadow-md transition duration-200 hover:bg-third focus:outline-none'
                     >
-                      Subscribe
+                      Login
                     </button>
                   </div>
                   <p className='text-xs text-gray-600 sm:text-sm'>
