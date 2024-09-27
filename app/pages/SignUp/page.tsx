@@ -49,18 +49,18 @@ const SignUp = () => {
                 <form>
                   <div className='mb-1 sm:mb-2'>
                     <label
-                      htmlFor='fullName'
+                      htmlFor='Username'
                       className='mb-1 inline-block font-medium'
                     >
-                      Full name
+                      Username
                     </label>
                     <input
-                      placeholder='Type Your Full Name'
+                      placeholder='Type Your Username'
                       required
                       type='text'
                       className='focus:border-deep-purple-accent-400 focus:shadow-outline mb-2 h-12 w-full flex-grow appearance-none rounded border border-gray-300 bg-white px-4 shadow-sm transition duration-200 focus:outline-none'
-                      id='fullName'
-                      name='fullName'
+                      id='Username'
+                      name='Username'
                     />
                   </div>
                   <div className='mb-1 sm:mb-2'>
@@ -107,7 +107,7 @@ const SignUp = () => {
                   <p className='text-xs text-gray-600 sm:text-sm'>
                     Already have an account?{' '}
                     <Link
-                      href='/pages/signIn'
+                      href='/pages/SignIn'
                       className='text-lg text-second decoration-solid'
                     >
                       Sign In
