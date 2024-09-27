@@ -16,14 +16,14 @@ const SignIn = () => {
           <div className='flex flex-col items-center justify-between xl:flex-row'>
             <div className='mb-12 w-full max-w-xl xl:mb-0 xl:w-7/12 xl:pr-16'>
               <h2 className='mb-6 max-w-lg font-sans text-3xl font-bold tracking-tight text-white sm:text-4xl sm:leading-none'>
-                The quick, brown fox <br className='hidden md:block' />
+                Try To Sign In <br className='hidden md:block' />
                 jumps over a{' '}
                 <span className='text-teal-accent-400'>lazy dog</span>
               </h2>
               <p className='mb-4 max-w-xl text-base text-gray-400 md:text-lg'>
-                Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                accusantium doloremque laudan, totam rem aperiam, eaque ipsa
-                quae.
+                Sign in to continue exploring your favorite pieces, track your
+                orders, and access your personalized shopping experience. We`re
+                glad to have you back!
               </p>
               <a
                 href='/'
