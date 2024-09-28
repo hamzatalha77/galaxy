@@ -26,7 +26,7 @@ const SignUp = () => {
                 and discover our latest collections. Your journey to timeless
                 elegance starts here!
               </p>
-              <a
+              <Link
                 href='/'
                 aria-label=''
                 className='text-teal-accent-400 hover:text-teal-accent-700 inline-flex items-center font-semibold tracking-wider transition-colors duration-200'
@@ -39,7 +39,7 @@ const SignUp = () => {
                 >
                   <path d='M9.707,5.293l-5-5A1,1,0,0,0,3.293,1.707L7.586,6,3.293,10.293a1,1,0,1,0,1.414,1.414l5-5A1,1,0,0,0,9.707,5.293Z' />
                 </svg>
-              </a>
+              </Link>
             </div>
             <div className='w-full max-w-xl xl:w-5/12 xl:px-8'>
               <div className='rounded bg-white p-7 shadow-2xl sm:p-10'>
