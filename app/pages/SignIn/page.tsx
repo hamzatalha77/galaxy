@@ -89,7 +89,7 @@ const SignIn = () => {
                     </button>
                   </div>
                   <p className='text-xs text-gray-600 sm:text-sm'>
-                    Don`t you have an account{' '}
+                    Don`t you have an account
                     <Link
                       href='/pages/SignUp'
                       className='text-lg text-second decoration-solid'
