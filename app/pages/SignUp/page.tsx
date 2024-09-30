@@ -105,7 +105,7 @@ const SignUp = () => {
                     </button>
                   </div>
                   <p className='text-xs text-gray-600 sm:text-sm'>
-                    Already have an account?{' '}
+                    Already have an account?
                     <Link
                       href='/pages/SignIn'
                       className='text-lg text-second decoration-solid'
