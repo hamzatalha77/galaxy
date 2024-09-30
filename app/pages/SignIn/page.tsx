@@ -94,7 +94,6 @@ const SignIn = () => {
                       href='/pages/SignUp'
                       className='text-lg text-second decoration-solid'
                     >
-                      {' 
                       Sign Up
                     </Link>
                   </p>
