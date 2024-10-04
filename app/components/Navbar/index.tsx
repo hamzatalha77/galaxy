@@ -90,12 +90,12 @@ const Navbar = () => {
           >
             <ul className='my-4 flex flex-col gap-y-4 lg:my-0 lg:flex-row lg:items-center'>
               <li>
-                <a
-                  href='#'
+                <Link
+                  href={'/'}
                   className='mb-2 flex items-center justify-between text-center text-sm font-medium text-gray-500 transition-all duration-500 hover:text-indigo-700 lg:mb-0 lg:mr-6 lg:text-base'
                 >
                   Home
-                </a>
+                </Link>
               </li>
               <li>
                 <a
@@ -106,12 +106,12 @@ const Navbar = () => {
                 </a>
               </li>
               <li className='relative'>
-                <a
-                  href='#'
+                <Link
+                  href={'/pages/SearchProducts'}
                   className='mb-2 flex items-center justify-between text-center text-sm font-medium text-gray-500 transition-all duration-500 hover:text-indigo-700 lg:mb-0 lg:mr-6 lg:text-base'
                 >
                   Products
-                </a>
+                </Link>
               </li>
               <li>
                 <button
