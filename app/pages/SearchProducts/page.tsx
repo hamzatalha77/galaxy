@@ -2,7 +2,7 @@ import React from 'react'
 
 const SearchProducts = () => {
   return (
-    <div className='bg-white'>
+    <div>
       <div>
         <div
           className='relative z-40 lg:hidden'
