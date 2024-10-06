@@ -92,7 +92,7 @@ const Navbar = () => {
               <li>
                 <Link
                   href={'/'}
-                  className='mb-2 flex items-center justify-between text-center text-sm font-medium text-gray-500 transition-all duration-500 hover:text-indigo-700 lg:mb-0 lg:mr-6 lg:text-base'
+                  className='mb-2 flex items-center justify-between text-center text-sm font-medium text-gray-500 transition-all duration-500 hover:text-second lg:mb-0 lg:mr-6 lg:text-base'
                 >
                   Home
                 </Link>
@@ -100,7 +100,7 @@ const Navbar = () => {
               <li>
                 <a
                   href='#'
-                  className='mb-2 flex items-center justify-between text-center text-sm font-medium text-gray-500 transition-all duration-500 hover:text-indigo-700 lg:mb-0 lg:mr-6 lg:text-base'
+                  className='mb-2 flex items-center justify-between text-center text-sm font-medium text-gray-500 transition-all duration-500 hover:text-second lg:mb-0 lg:mr-6 lg:text-base'
                 >
                   About Us
                 </a>
@@ -108,7 +108,7 @@ const Navbar = () => {
               <li className='relative'>
                 <Link
                   href={'/pages/SearchProducts'}
-                  className='mb-2 flex items-center justify-between text-center text-sm font-medium text-gray-500 transition-all duration-500 hover:text-indigo-700 lg:mb-0 lg:mr-6 lg:text-base'
+                  className='mb-2 flex items-center justify-between text-center text-sm font-medium text-gray-500 transition-all duration-500 hover:text-second lg:mb-0 lg:mr-6 lg:text-base'
                 >
                   Products
                 </Link>
