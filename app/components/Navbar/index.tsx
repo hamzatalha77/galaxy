@@ -115,7 +115,7 @@ const Navbar = () => {
               </li>
               <li>
                 <button
-                  className='dropdown-toggle hover:text-prime-blue-700 mb-2 flex items-center justify-between text-center text-sm font-medium text-gray-500 transition-all duration-500 lg:mb-0 lg:mr-6 lg:text-base'
+                  className='dropdown-toggle mb-2 flex items-center justify-between text-center text-sm font-medium text-gray-500 transition-all duration-500 hover:text-second lg:mb-0 lg:mr-6 lg:text-base'
                   onClick={toggleDropdown}
                 >
                   Features
