@@ -4,7 +4,11 @@ import { useState, useEffect, useRef } from 'react'
 const SearchProducts = () => {
   const [isOpen, setIsOpen] = useState(false)
   const dropdownRef = useRef<HTMLDivElement>(null)
+  const [isColorOpen, setIsColorOpen] = useState(false)
 
+  const toggleColorSection = () => {
+    setIsColorOpen(prev => !prev)
+  }
   const toggleDropdown = () => {
     setIsOpen(prev => !prev)
   }
@@ -231,6 +235,7 @@ const SearchProducts = () => {
                     </div>
                   </div>
                 </div>
+
                 <div className='border-t border-gray-200 px-4 py-6'>
                   <h3 className='-mx-2 -my-3 flow-root'>
                     <button
