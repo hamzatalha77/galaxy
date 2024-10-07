@@ -1,6 +1,6 @@
 'use client'
-import React from 'react'
-import { useState, useEffect, useRef } from 'react'
+import React, { useState, useRef, useEffect } from 'react'
+
 const SearchProducts = () => {
   const [isOpen, setIsOpen] = useState(false)
   const dropdownRef = useRef<HTMLDivElement>(null)
@@ -9,6 +9,7 @@ const SearchProducts = () => {
   const toggleColorSection = () => {
     setIsColorOpen(prev => !prev)
   }
+
   const toggleDropdown = () => {
     setIsOpen(prev => !prev)
   }
