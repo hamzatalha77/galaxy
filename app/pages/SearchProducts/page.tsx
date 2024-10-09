@@ -1,4 +1,5 @@
 'use client'
+import Image from '@/app/components/Image'
 import React, { useState, useRef, useEffect } from 'react'
 
 const SearchProducts = () => {
@@ -1012,8 +1013,10 @@ const SearchProducts = () => {
                           href='#'
                           className='group relative mb-2 block h-96 overflow-hidden rounded-lg bg-gray-100 shadow-lg lg:mb-3'
                         >
-                          <img
-                            src='https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?auto=format&q=75&fit=crop&crop=top&w=600&h=700'
+                          <Image
+                            width={600}
+                            height={700}
+                            path='Silver/silver (7).webp'
                             loading='lazy'
                             alt='Photo by Austin Wade'
                             className='h-full w-full object-cover object-center transition duration-200 group-hover:scale-110'
@@ -1058,8 +1061,10 @@ const SearchProducts = () => {
                           href='#'
                           className='group relative mb-2 block h-96 overflow-hidden rounded-lg bg-gray-100 shadow-lg lg:mb-3'
                         >
-                          <img
-                            src='https://images.unsplash.com/photo-1523359346063-d879354c0ea5?auto=format&q=75&fit=crop&crop=top&w=600&h=700'
+                          <Image
+                            width={600}
+                            height={700}
+                            path='Silver/silver (8).webp'
                             loading='lazy'
                             alt='Photo by Nick Karvounis'
                             className='h-full w-full object-cover object-center transition duration-200 group-hover:scale-110'
@@ -1089,8 +1094,10 @@ const SearchProducts = () => {
                           href='#'
                           className='group relative mb-2 block h-96 overflow-hidden rounded-lg bg-gray-100 shadow-lg lg:mb-3'
                         >
-                          <img
-                            src='https://images.unsplash.com/photo-1523359346063-d879354c0ea5?auto=format&q=75&fit=crop&crop=top&w=600&h=700'
+                          <Image
+                            width={600}
+                            height={700}
+                            path='Silver/silver (4).webp'
                             loading='lazy'
                             alt='Photo by Nick Karvounis'
                             className='h-full w-full object-cover object-center transition duration-200 group-hover:scale-110'
@@ -1120,8 +1127,10 @@ const SearchProducts = () => {
                           href='#'
                           className='group relative mb-2 block h-96 overflow-hidden rounded-lg bg-gray-100 shadow-lg lg:mb-3'
                         >
-                          <img
-                            src='https://images.unsplash.com/photo-1523359346063-d879354c0ea5?auto=format&q=75&fit=crop&crop=top&w=600&h=700'
+                          <Image
+                            width={600}
+                            height={700}
+                            path='Silver/silver (1).webp'
                             loading='lazy'
                             alt='Photo by Nick Karvounis'
                             className='h-full w-full object-cover object-center transition duration-200 group-hover:scale-110'
@@ -1151,8 +1160,10 @@ const SearchProducts = () => {
                           href='#'
                           className='group relative mb-2 block h-96 overflow-hidden rounded-lg bg-gray-100 shadow-lg lg:mb-3'
                         >
-                          <img
-                            src='https://images.unsplash.com/photo-1523359346063-d879354c0ea5?auto=format&q=75&fit=crop&crop=top&w=600&h=700'
+                          <Image
+                            width={600}
+                            height={700}
+                            path='Silver/silver (6).webp'
                             loading='lazy'
                             alt='Photo by Nick Karvounis'
                             className='h-full w-full object-cover object-center transition duration-200 group-hover:scale-110'
@@ -1182,8 +1193,10 @@ const SearchProducts = () => {
                           href='#'
                           className='group relative mb-2 block h-96 overflow-hidden rounded-lg bg-gray-100 shadow-lg lg:mb-3'
                         >
-                          <img
-                            src='https://images.unsplash.com/photo-1523359346063-d879354c0ea5?auto=format&q=75&fit=crop&crop=top&w=600&h=700'
+                          <Image
+                            width={600}
+                            height={700}
+                            path='Silver/silver (5).webp'
                             loading='lazy'
                             alt='Photo by Nick Karvounis'
                             className='h-full w-full object-cover object-center transition duration-200 group-hover:scale-110'
