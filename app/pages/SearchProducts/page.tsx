@@ -145,7 +145,10 @@ const SearchProducts = () => {
                   </h3>
 
                   {isColorOpen && (
-                    <div className='pt-6' id='filter-section-mobile-0'>
+                    <div
+                      className={`${isColorOpen ? 'block' : 'hidden'} pt-6`}
+                      id='filter-section-mobile-0'
+                    >
                       <div className='space-y-6'>
                         <div className='flex items-center'>
                           <input
