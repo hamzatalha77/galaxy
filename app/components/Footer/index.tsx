@@ -56,7 +56,7 @@ const Footer = () => {
                       />
                     </g>
                   </svg>
-                  Flowrift
+                  LuxeGleam
                 </a>
               </div>
 
