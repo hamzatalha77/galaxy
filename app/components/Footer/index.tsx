@@ -14,14 +14,47 @@ const Footer = () => {
                   aria-label='logo'
                 >
                   <svg
-                    width='95'
-                    height='94'
-                    viewBox='0 0 95 94'
-                    className='h-auto w-5 text-indigo-500'
-                    fill='currentColor'
+                    height='50px'
+                    width='50px'
+                    version='1.1'
+                    id='Layer_1'
                     xmlns='http://www.w3.org/2000/svg'
+                    xmlnsXlink='http://www.w3.org/1999/xlink'
+                    viewBox='0 0 512 512'
+                    xmlSpace='preserve'
                   >
-                    <path d='M96 0V47L48 94H0V47L48 0H96Z' />
+                    <polygon
+                      style={{ fill: '#D2AC47' }}
+                      points='256,499.47 512,146.167 414.217,12.53 97.784,12.53 0.001,146.167'
+                    />
+                    <g>
+                      <polygon
+                        style={{ fill: '#DFBD69' }}
+                        points='97.786,12.53 170.663,146.172 0,146.172'
+                      />
+                      <polygon
+                        style={{ fill: '#DFBD69' }}
+                        points='414.217,12.53 341.327,146.172 255.995,12.53'
+                      />
+                      <polygon
+                        style={{ fill: '#DFBD69' }}
+                        points='341.327,146.172 255.995,499.467 170.663,146.172'
+                      />
+                    </g>
+                    <g>
+                      <polygon
+                        style={{ fill: '#926F34' }}
+                        points='414.217,12.53 511.99,146.172 341.327,146.172'
+                      />
+                      <polygon
+                        style={{ fill: '#926F34' }}
+                        points='255.995,12.53 341.327,146.172 170.663,146.172'
+                      />
+                      <polygon
+                        style={{ fill: '#926F34' }}
+                        points='170.663,146.172 255.995,499.467 0,146.172'
+                      />
+                    </g>
                   </svg>
                   Flowrift
                 </a>
