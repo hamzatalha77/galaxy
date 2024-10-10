@@ -29,7 +29,7 @@ const SignUp = () => {
               <Link
                 href='/'
                 aria-label=''
-                className='text-teal-accent-400 hover:text-teal-accent-700 inline-flex items-center font-semibold tracking-wider transition-colors duration-200'
+                className='inline-flex items-center font-semibold tracking-wider text-GoldenTop transition-colors duration-200 hover:text-GoldenBottom'
               >
                 Join Us
                 <svg
@@ -110,6 +110,7 @@ const SignUp = () => {
                       href='/pages/SignIn'
                       className='text-lg text-second decoration-solid'
                     >
+                      {'   '}
                       Sign In
                     </Link>
                   </p>
