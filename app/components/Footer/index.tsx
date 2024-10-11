@@ -70,7 +70,7 @@ const Footer = () => {
                 <a
                   href='#'
                   target='_blank'
-                  className='text-gray-400 transition duration-100 hover:text-gray-500 active:text-gray-600'
+                  className='text-gray-400 transition duration-100 hover:text-second active:text-gray-600'
                 >
                   <svg
                     className='h-5 w-5'
@@ -87,7 +87,7 @@ const Footer = () => {
                 <a
                   href='#'
                   target='_blank'
-                  className='text-gray-400 transition duration-100 hover:text-gray-500 active:text-gray-600'
+                  className='text-gray-400 transition duration-100 hover:text-second active:text-gray-600'
                 >
                   <svg
                     className='h-5 w-5'
@@ -104,7 +104,7 @@ const Footer = () => {
                 <a
                   href='#'
                   target='_blank'
-                  className='text-gray-400 transition duration-100 hover:text-gray-500 active:text-gray-600'
+                  className='text-gray-400 transition duration-100 hover:text-second active:text-gray-600'
                 >
                   <svg
                     className='h-5 w-5'
@@ -121,7 +121,7 @@ const Footer = () => {
                 <a
                   href='#'
                   target='_blank'
-                  className='text-gray-400 transition duration-100 hover:text-gray-500 active:text-gray-600'
+                  className='text-gray-400 transition duration-100 hover:text-second active:text-gray-600'
                 >
                   <svg
                     className='h-5 w-5'
@@ -146,7 +146,7 @@ const Footer = () => {
                 <div>
                   <a
                     href='#'
-                    className='text-gray-500 transition duration-100 hover:text-indigo-500 active:text-indigo-600'
+                    className='text-gray-500 transition duration-100 hover:text-second active:text-GoldenTop'
                   >
                     Overview
                   </a>
@@ -155,7 +155,7 @@ const Footer = () => {
                 <div>
                   <a
                     href='#'
-                    className='text-gray-500 transition duration-100 hover:text-indigo-500 active:text-indigo-600'
+                    className='text-gray-500 transition duration-100 hover:text-second active:text-GoldenTop'
                   >
                     Solutions
                   </a>
@@ -164,7 +164,7 @@ const Footer = () => {
                 <div>
                   <a
                     href='#'
-                    className='text-gray-500 transition duration-100 hover:text-indigo-500 active:text-indigo-600'
+                    className='text-gray-500 transition duration-100 hover:text-second active:text-GoldenTop'
                   >
                     Pricing
                   </a>
@@ -173,7 +173,7 @@ const Footer = () => {
                 <div>
                   <a
                     href='#'
-                    className='text-gray-500 transition duration-100 hover:text-indigo-500 active:text-indigo-600'
+                    className='text-gray-500 transition duration-100 hover:text-second active:text-GoldenTop'
                   >
                     Customers
                   </a>
@@ -190,7 +190,7 @@ const Footer = () => {
                 <div>
                   <a
                     href='#'
-                    className='text-gray-500 transition duration-100 hover:text-indigo-500 active:text-indigo-600'
+                    className='text-gray-500 transition duration-100 hover:text-second active:text-GoldenTop'
                   >
                     About
                   </a>
@@ -199,7 +199,7 @@ const Footer = () => {
                 <div>
                   <a
                     href='#'
-                    className='text-gray-500 transition duration-100 hover:text-indigo-500 active:text-indigo-600'
+                    className='text-gray-500 transition duration-100 hover:text-second active:text-GoldenTop'
                   >
                     Investor Relations
                   </a>
@@ -208,7 +208,7 @@ const Footer = () => {
                 <div>
                   <a
                     href='#'
-                    className='text-gray-500 transition duration-100 hover:text-indigo-500 active:text-indigo-600'
+                    className='text-gray-500 transition duration-100 hover:text-second active:text-GoldenTop'
                   >
                     Jobs
                   </a>
@@ -217,7 +217,7 @@ const Footer = () => {
                 <div>
                   <a
                     href='#'
-                    className='text-gray-500 transition duration-100 hover:text-indigo-500 active:text-indigo-600'
+                    className='text-gray-500 transition duration-100 hover:text-second active:text-GoldenTop'
                   >
                     Press
                   </a>
@@ -226,7 +226,7 @@ const Footer = () => {
                 <div>
                   <a
                     href='#'
-                    className='text-gray-500 transition duration-100 hover:text-indigo-500 active:text-indigo-600'
+                    className='text-gray-500 transition duration-100 hover:text-second active:text-GoldenTop'
                   >
                     Blog
                   </a>
@@ -243,7 +243,7 @@ const Footer = () => {
                 <div>
                   <a
                     href='#'
-                    className='text-gray-500 transition duration-100 hover:text-indigo-500 active:text-indigo-600'
+                    className='text-gray-500 transition duration-100 hover:text-second active:text-GoldenTop'
                   >
                     Contact
                   </a>
@@ -252,7 +252,7 @@ const Footer = () => {
                 <div>
                   <a
                     href='#'
-                    className='text-gray-500 transition duration-100 hover:text-indigo-500 active:text-indigo-600'
+                    className='text-gray-500 transition duration-100 hover:text-second active:text-GoldenTop'
                   >
                     Documentation
                   </a>
@@ -261,7 +261,7 @@ const Footer = () => {
                 <div>
                   <a
                     href='#'
-                    className='text-gray-500 transition duration-100 hover:text-indigo-500 active:text-indigo-600'
+                    className='text-gray-500 transition duration-100 hover:text-second active:text-GoldenTop'
                   >
                     Chat
                   </a>
@@ -270,7 +270,7 @@ const Footer = () => {
                 <div>
                   <a
                     href='#'
-                    className='text-gray-500 transition duration-100 hover:text-indigo-500 active:text-indigo-600'
+                    className='text-gray-500 transition duration-100 hover:text-second active:text-GoldenTop'
                   >
                     FAQ
                   </a>
@@ -287,7 +287,7 @@ const Footer = () => {
                 <div>
                   <a
                     href='#'
-                    className='text-gray-500 transition duration-100 hover:text-indigo-500 active:text-indigo-600'
+                    className='text-gray-500 transition duration-100 hover:text-second active:text-GoldenTop'
                   >
                     Terms of Service
                   </a>
@@ -296,7 +296,7 @@ const Footer = () => {
                 <div>
                   <a
                     href='#'
-                    className='text-gray-500 transition duration-100 hover:text-indigo-500 active:text-indigo-600'
+                    className='text-gray-500 transition duration-100 hover:text-second active:text-GoldenTop'
                   >
                     Privacy Policy
                   </a>
@@ -305,7 +305,7 @@ const Footer = () => {
                 <div>
                   <a
                     href='#'
-                    className='text-gray-500 transition duration-100 hover:text-indigo-500 active:text-indigo-600'
+                    className='text-gray-500 transition duration-100 hover:text-second active:text-GoldenTop'
                   >
                     Cookie settings
                   </a>
