@@ -15,7 +15,7 @@ const Navbar = () => {
       <div className='container mx-auto'>
         <div className='flex w-full flex-col lg:flex-row'>
           <div className='flex justify-between lg:flex-row'>
-            <a href='javascript:;' className='flex items-center'>
+            <Link href={'/'} className='flex items-center'>
               <svg
                 height='50px'
                 width='50px'
@@ -59,7 +59,7 @@ const Navbar = () => {
                   />
                 </g>
               </svg>
-            </a>
+            </Link>
             <button
               data-collapse-toggle='megamenu-cta'
               type='button'

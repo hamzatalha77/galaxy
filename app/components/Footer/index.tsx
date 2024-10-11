@@ -1,3 +1,4 @@
+import Link from 'next/link'
 import React from 'react'
 
 const Footer = () => {
@@ -8,8 +9,8 @@ const Footer = () => {
           <div className='mb-16 grid grid-cols-2 gap-12 md:grid-cols-4 lg:grid-cols-6 lg:gap-8'>
             <div className='col-span-full lg:col-span-2'>
               <div className='mb-4 lg:-mt-2'>
-                <a
-                  href='/'
+                <Link
+                  href={'/'}
                   className='inline-flex items-center gap-2 text-xl font-bold text-black md:text-2xl'
                   aria-label='logo'
                 >
@@ -57,7 +58,7 @@ const Footer = () => {
                     </g>
                   </svg>
                   LuxeGleam
-                </a>
+                </Link>
               </div>
 
               <p className='mb-6 text-gray-500 sm:pr-8'>

@@ -29,7 +29,7 @@ const SignIn = () => {
               <a
                 href='/'
                 aria-label=''
-                className='hover:text-teal-accent-700 inline-flex items-center font-semibold tracking-wider text-GoldenTop transition-colors duration-200'
+                className='inline-flex items-center font-semibold tracking-wider text-GoldenTop transition-colors duration-200 hover:text-GoldenBottom'
               >
                 Learn more
                 <svg
@@ -89,7 +89,7 @@ const SignIn = () => {
                     </button>
                   </div>
                   <p className='text-xs text-gray-600 sm:text-sm'>
-                    Don`t you have an account
+                    Don`t you have an account?
                     <Link
                       href='/pages/SignUp'
                       className='text-lg text-second decoration-solid'
