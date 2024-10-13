@@ -1,8 +1,8 @@
 import Image from 'next/image'
 import { Swiper, SwiperSlide } from 'swiper/react'
+
 import 'swiper/css'
-import 'swiper/css/navigation'
-import 'swiper/css/thumbs'
+import 'swiper/css/pagination'
 
 const Product = () => {
   return (

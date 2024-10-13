@@ -1,5 +1,6 @@
 import React from 'react'
 import Image from '../Image'
+import Link from 'next/link'
 
 const Products = () => {
   return (
@@ -20,8 +21,8 @@ const Products = () => {
 
         <div className='grid gap-x-4 gap-y-8 sm:grid-cols-2 md:gap-x-6 lg:grid-cols-3 xl:grid-cols-4'>
           <div>
-            <a
-              href='#'
+            <Link
+              href='/pages/Product'
               className='group relative mb-2 block h-80 overflow-hidden rounded-lg bg-gray-100 lg:mb-3'
             >
               <Image
@@ -35,7 +36,7 @@ const Products = () => {
               <span className='absolute left-0 top-0 rounded-br-lg bg-red-500 px-3 py-1.5 text-sm uppercase tracking-wider text-white'>
                 sale
               </span>
-            </a>
+            </Link>
 
             <div>
               <a
