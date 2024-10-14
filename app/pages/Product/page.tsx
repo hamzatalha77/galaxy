@@ -2,6 +2,7 @@ import Image from 'next/image'
 import { Swiper, SwiperSlide } from 'swiper/react'
 import 'swiper/css'
 import 'swiper/css/pagination'
+import 'swiper/swiper-bundle.min.css'
 
 const Product = () => {
   return (
