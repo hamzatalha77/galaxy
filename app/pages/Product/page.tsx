@@ -8,7 +8,6 @@ const Product = () => {
     <section className='py-24'>
       <div className='mx-auto max-w-7xl px-4 sm:px-6 lg:px-8'>
         <div className='grid grid-cols-1 lg:grid-cols-2'>
-          {/* Main Slider */}
           <div className='slider-box mx-0 h-full w-full max-lg:mx-auto'>
             <Swiper className='swiper main-slide-carousel swiper-container relative mb-6'>
               <div className='swiper-wrapper'>
