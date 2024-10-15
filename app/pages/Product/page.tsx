@@ -33,7 +33,6 @@ const Product = () => {
               </div>
             </Swiper>
 
-            {/* Thumbnail Slider */}
             <div className='nav-for-slider'>
               <Swiper className='swiper-wrapper'>
                 {[
