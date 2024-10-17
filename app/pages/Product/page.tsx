@@ -133,7 +133,6 @@ const Product = () => {
                 )}
               </div>
 
-              {/* Size Options */}
               <p className='mb-2 text-lg font-medium text-gray-900'>
                 Size (KG)
               </p>
