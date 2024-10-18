@@ -110,7 +110,6 @@ const Product = () => {
                 </div>
               </div>
 
-              {/* Color */}
               <p className='mb-2 text-lg font-medium text-gray-900'>Color</p>
               <div className='mb-6 grid max-w-sm grid-cols-3 gap-3'>
                 {['1700472379.png', '1700472517.png', '1700472529.png'].map(
