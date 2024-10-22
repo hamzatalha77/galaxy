@@ -98,7 +98,7 @@ const Product = () => {
                 </button>
               </div>
 
-              {/* Product  */}
+              {/* Product */}
               <div className='mb-8 flex flex-col gap-y-3 min-[400px]:flex-row min-[400px]:items-center'>
                 <div className='flex items-center'>
                   <h5 className='font-manrope text-2xl font-semibold leading-9 text-gray-900'>
