@@ -40,7 +40,7 @@ const Categories = () => {
                   <path
                     d='M9.62553 4L13.6664 8.0409M13.6664 8.0409L9.62553 12.0818M13.6664 8.0409L1.6665 8.0409'
                     stroke=''
-                    stroke-width='1.6'
+                    strokeWidth='1.6'
                     stroke-linecap='round'
                   />
                 </svg>
@@ -78,7 +78,7 @@ const Categories = () => {
                   <path
                     d='M9.62553 4L13.6664 8.0409M13.6664 8.0409L9.62553 12.0818M13.6664 8.0409L1.6665 8.0409'
                     stroke=''
-                    stroke-width='1.6'
+                    strokeWidth='1.6'
                     stroke-linecap='round'
                   />
                 </svg>
@@ -114,7 +114,7 @@ const Categories = () => {
                   <path
                     d='M9.62553 4L13.6664 8.0409M13.6664 8.0409L9.62553 12.0818M13.6664 8.0409L1.6665 8.0409'
                     stroke=''
-                    stroke-width='1.6'
+                    strokeWidth='1.6'
                     stroke-linecap='round'
                   />
                 </svg>
@@ -150,7 +150,7 @@ const Categories = () => {
                   <path
                     d='M9.62553 4L13.6664 8.0409M13.6664 8.0409L9.62553 12.0818M13.6664 8.0409L1.6665 8.0409'
                     stroke=''
-                    stroke-width='1.6'
+                    strokeWidth='1.6'
                     stroke-linecap='round'
                   />
                 </svg>
