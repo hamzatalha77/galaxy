@@ -60,7 +60,6 @@ const Product = () => {
             </div>
           </div>
 
-          {/* Product Details */}
           <div className='flex items-center justify-center'>
             <div className='pro-detail w-full max-lg:mx-auto max-lg:mt-8 max-lg:max-w-[608px] lg:pl-8 xl:pl-16'>
               <div className='mb-6 flex items-center justify-between gap-6'>
