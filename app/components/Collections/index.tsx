@@ -67,7 +67,7 @@ const Collections = () => {
               />
 
               <div className='relative flex w-full flex-col rounded-lg p-4 text-center backdrop-blur-xl'>
-                {/* <span className='text-gray-500'>Men</span> */}
+                {/* <span className='text-gray-500'></span> */}
                 <span className='text-lg font-bold text-gray-800 lg:text-xl'>
                   Streetwear
                 </span>
