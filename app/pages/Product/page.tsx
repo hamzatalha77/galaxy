@@ -68,7 +68,7 @@ const Product = () => {
                     Yellow Summer Travel Bag
                   </h2>
                   <p className='text-base font-normal text-gray-500'>
-                    ABS LUGGAGES
+                    ABS LUGGAGESS
                   </p>
                 </div>
                 <button className='group p-0.5 transition-all duration-500'>
