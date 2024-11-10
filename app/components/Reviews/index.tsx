@@ -115,7 +115,7 @@ const Reviews = () => {
                 <p className='mr-0.5 text-lg font-medium text-black'>16</p>
               </div>
               <div className='flex items-center'>
-                <p className='mr-0.5 text-lg font-medium text-black'>1</p>
+                <p className='mr-0.5 text-lg font-medium text-black'>2</p>
                 <svg
                   width='20'
                   height='20'
