@@ -363,7 +363,7 @@ const Reviews = () => {
                 </h6>
               </div>
               <p className='text-lg font-normal leading-8 text-gray-400'>
-                Nov 01, 2023
+                Nov 02, 2023
               </p>
             </div>
             <p className='text-lg font-normal leading-8 text-gray-400 max-xl:text-justify'>
