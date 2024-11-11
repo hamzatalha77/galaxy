@@ -245,7 +245,7 @@ const Reviews = () => {
                 </svg>
               </div>
               <p className='text-center text-xl font-medium leading-8 text-gray-900'>
-                46 Ratings
+                45 Ratings
               </p>
             </div>
           </div>
