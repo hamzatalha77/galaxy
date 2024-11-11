@@ -349,7 +349,7 @@ const Reviews = () => {
               </svg>
             </div>
             <h3 className='font-manrope mb-6 text-xl font-semibold leading-9 text-black sm:text-2xl'>
-              Outstanding Experience!!!
+              Outstanding Experience!!
             </h3>
             <div className='mb-4 flex flex-col justify-between gap-5 min-[400px]:flex-row sm:items-center'>
               <div className='flex items-center gap-3'>
