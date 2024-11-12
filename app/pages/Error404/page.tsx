@@ -4,4 +4,4 @@ const Error404 = () => {
   return <div></div>
 }
 
-export default page
+export default Error404
