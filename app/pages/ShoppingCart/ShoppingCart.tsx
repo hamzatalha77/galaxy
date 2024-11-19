@@ -11,7 +11,7 @@ const ShoppingCart = () => {
                 Shopping Cart
               </h2>
               <h2 className='font-manrope text-xl font-bold leading-8 text-gray-600'>
-                3 Items
+                4 Items
               </h2>
             </div>
             <div className='mt-8 grid grid-cols-12 border-b border-gray-200 pb-6 max-md:hidden'>
