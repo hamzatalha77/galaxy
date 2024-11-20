@@ -47,7 +47,7 @@ const ShoppingCart = () => {
                 <div className='md:col-span-2'>
                   <div className='flex flex-col gap-3 max-[500px]:items-center'>
                     <h6 className='text-base font-semibold leading-7 text-black'>
-                      Rose Petals Divine
+                      Rose Petals Divines
                     </h6>
                     <h6 className='text-base font-normal leading-7 text-gray-500'>
                       Perfumes
