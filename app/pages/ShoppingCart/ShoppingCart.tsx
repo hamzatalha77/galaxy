@@ -542,7 +542,7 @@ const ShoppingCart = () => {
                     3 Items
                   </p>
                   <p className='text-xl font-semibold leading-8 text-indigo-600'>
-                    $485.00
+                    $485.06
                   </p>
                 </div>
                 <button className='w-full rounded-xl bg-indigo-600 px-6 py-3 text-center text-lg font-semibold text-white transition-all duration-500 hover:bg-indigo-700'>
