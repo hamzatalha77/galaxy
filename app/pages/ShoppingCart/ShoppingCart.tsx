@@ -539,7 +539,7 @@ const ShoppingCart = () => {
                 </div>
                 <div className='flex items-center justify-between py-8'>
                   <p className='text-xl font-medium leading-8 text-black'>
-                    3 Items
+                    8 Items
                   </p>
                   <p className='text-xl font-semibold leading-8 text-indigo-600'>
                     $485.06
