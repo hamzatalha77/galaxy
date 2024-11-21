@@ -250,7 +250,7 @@ const ShoppingCart = () => {
                       Dusk Dark Hue
                     </h6>
                     <h6 className='text-base font-normal leading-7 text-gray-500'>
-                      Perfumes
+                      Perfume
                     </h6>
                     <h6 className='text-base font-medium leading-7 text-gray-600 transition-all duration-300 group-hover:text-indigo-600'>
                       $120.00
