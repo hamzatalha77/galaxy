@@ -364,7 +364,7 @@ const ShoppingCart = () => {
             <div className='mt-8'>
               <div className='flex items-center justify-between pb-6'>
                 <p className='text-lg font-normal leading-8 text-black'>
-                  3 Items
+                  6 Items
                 </p>
                 <p className='text-lg font-medium leading-8 text-black'>
                   $480.00
