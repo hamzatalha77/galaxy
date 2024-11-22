@@ -4,4 +4,4 @@ const PlaceOrder = () => {
   return <div></div>
 }
 
-export default page
+export default PlaceOrder
