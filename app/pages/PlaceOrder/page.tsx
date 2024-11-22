@@ -1,6 +1,6 @@
 import React from 'react'
 
-const page = () => {
+const PlaceOrder = () => {
   return <div></div>
 }
 
