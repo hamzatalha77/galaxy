@@ -74,7 +74,7 @@ const PlaceOrder = () => {
                       d='M18 12H6'
                       stroke='#111827'
                       strokeWidth='1.6'
-                      stroke-linecap='round'
+                      strokeLinecap='round'
                     ></path>
                   </svg>
                   <input
@@ -93,7 +93,7 @@ const PlaceOrder = () => {
                       d='M12 6V18M18 12H6'
                       stroke='#111827'
                       strokeWidth='1.6'
-                      stroke-linecap='round'
+                      strokeLinecap='round'
                     ></path>
                   </svg>
                 </button>
@@ -114,7 +114,7 @@ const PlaceOrder = () => {
                         d='M13.5 13.5L26.5 26.5M26.5 13.5L13.5 26.5'
                         stroke='currentColor'
                         strokeWidth='1.6'
-                        stroke-linecap='round'
+                        strokeLinecap='round'
                       ></path>
                     </g>
                     <defs>
@@ -198,7 +198,7 @@ const PlaceOrder = () => {
                       d='M18 12H6'
                       stroke='#111827'
                       strokeWidth='1.6'
-                      stroke-linecap='round'
+                      strokeLinecap='round'
                     ></path>
                   </svg>
                   <input
@@ -217,7 +217,7 @@ const PlaceOrder = () => {
                       d='M12 6V18M18 12H6'
                       stroke='#111827'
                       strokeWidth='1.6'
-                      stroke-linecap='round'
+                      strokeLinecap='round'
                     ></path>
                   </svg>
                 </button>
@@ -238,7 +238,7 @@ const PlaceOrder = () => {
                         d='M13.5 13.5L26.5 26.5M26.5 13.5L13.5 26.5'
                         stroke='currentColor'
                         strokeWidth='1.6'
-                        stroke-linecap='round'
+                        strokeLinecap='round'
                       ></path>
                     </g>
                     <defs>
