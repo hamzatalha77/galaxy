@@ -226,8 +226,7 @@ const PlaceOrder = () => {
                 </h5>
                 <button className='group flex w-full max-w-[176px] items-center justify-center text-center transition-all duration-700 ease-in-out'>
                   <svg
-                    className='text-gray-500 transition-all duration-700 ease-in-out group-hover:text-gray-900'
-                    className='mx-auto'
+                    className='mx-auto text-gray-500 transition-all duration-700 ease-in-out group-hover:text-gray-900'
                     xmlns='http://www.w3.org/2000/svg'
                     width='40'
                     height='40'
