@@ -41,7 +41,7 @@ const Categories = () => {
                     d='M9.62553 4L13.6664 8.0409M13.6664 8.0409L9.62553 12.0818M13.6664 8.0409L1.6665 8.0409'
                     stroke=''
                     strokeWidth='1.6'
-                    stroke-linecap='round'
+                    strokeLinecap='round'
                   />
                 </svg>
               </button>
@@ -79,7 +79,7 @@ const Categories = () => {
                     d='M9.62553 4L13.6664 8.0409M13.6664 8.0409L9.62553 12.0818M13.6664 8.0409L1.6665 8.0409'
                     stroke=''
                     strokeWidth='1.6'
-                    stroke-linecap='round'
+                    strokeLinecap='round'
                   />
                 </svg>
               </button>
@@ -115,7 +115,7 @@ const Categories = () => {
                     d='M9.62553 4L13.6664 8.0409M13.6664 8.0409L9.62553 12.0818M13.6664 8.0409L1.6665 8.0409'
                     stroke=''
                     strokeWidth='1.6'
-                    stroke-linecap='round'
+                    strokeLinecap='round'
                   />
                 </svg>
               </button>
@@ -151,7 +151,7 @@ const Categories = () => {
                     d='M9.62553 4L13.6664 8.0409M13.6664 8.0409L9.62553 12.0818M13.6664 8.0409L1.6665 8.0409'
                     stroke=''
                     strokeWidth='1.6'
-                    stroke-linecap='round'
+                    strokeLinecap='round'
                   />
                 </svg>
               </button>

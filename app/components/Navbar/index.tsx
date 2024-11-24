@@ -401,7 +401,7 @@ const Navbar = () => {
                                 d='M2 8L12.6667 8M9.33333 12L12.8619 8.4714C13.0842 8.24918 13.1953 8.13807 13.1953 8C13.1953 7.86193 13.0842 7.75082 12.8619 7.5286L9.33333 4'
                                 stroke='#4F46E5'
                                 strokeWidth='1.6'
-                                stroke-linecap='round'
+                                strokeLinecap='round'
                                 stroke-linejoin='round'
                               ></path>
                             </svg>

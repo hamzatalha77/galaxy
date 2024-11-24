@@ -72,21 +72,21 @@ const ShoppingCart = () => {
                           d='M16.5 11H5.5'
                           stroke=''
                           strokeWidth='1.6'
-                          stroke-linecap='round'
+                          strokeLinecap='round'
                         />
                         <path
                           d='M16.5 11H5.5'
                           stroke=''
                           stroke-opacity='0.2'
                           strokeWidth='1.6'
-                          stroke-linecap='round'
+                          strokeLinecap='round'
                         />
                         <path
                           d='M16.5 11H5.5'
                           stroke=''
                           stroke-opacity='0.2'
                           strokeWidth='1.6'
-                          stroke-linecap='round'
+                          strokeLinecap='round'
                         />
                       </svg>
                     </button>
@@ -108,21 +108,21 @@ const ShoppingCart = () => {
                           d='M11 5.5V16.5M16.5 11H5.5'
                           stroke=''
                           strokeWidth='1.6'
-                          stroke-linecap='round'
+                          strokeLinecap='round'
                         />
                         <path
                           d='M11 5.5V16.5M16.5 11H5.5'
                           stroke=''
                           stroke-opacity='0.2'
                           strokeWidth='1.6'
-                          stroke-linecap='round'
+                          strokeLinecap='round'
                         />
                         <path
                           d='M11 5.5V16.5M16.5 11H5.5'
                           stroke=''
                           stroke-opacity='0.2'
                           strokeWidth='1.6'
-                          stroke-linecap='round'
+                          strokeLinecap='round'
                         />
                       </svg>
                     </button>
@@ -172,21 +172,21 @@ const ShoppingCart = () => {
                           d='M16.5 11H5.5'
                           stroke=''
                           strokeWidth='1.6'
-                          stroke-linecap='round'
+                          strokeLinecap='round'
                         />
                         <path
                           d='M16.5 11H5.5'
                           stroke=''
                           stroke-opacity='0.2'
                           strokeWidth='1.6'
-                          stroke-linecap='round'
+                          strokeLinecap='round'
                         />
                         <path
                           d='M16.5 11H5.5'
                           stroke=''
                           stroke-opacity='0.2'
                           strokeWidth='1.6'
-                          stroke-linecap='round'
+                          strokeLinecap='round'
                         />
                       </svg>
                     </button>
@@ -208,21 +208,21 @@ const ShoppingCart = () => {
                           d='M11 5.5V16.5M16.5 11H5.5'
                           stroke=''
                           strokeWidth='1.6'
-                          stroke-linecap='round'
+                          strokeLinecap='round'
                         />
                         <path
                           d='M11 5.5V16.5M16.5 11H5.5'
                           stroke=''
                           stroke-opacity='0.2'
                           strokeWidth='1.6'
-                          stroke-linecap='round'
+                          strokeLinecap='round'
                         />
                         <path
                           d='M11 5.5V16.5M16.5 11H5.5'
                           stroke=''
                           stroke-opacity='0.2'
                           strokeWidth='1.6'
-                          stroke-linecap='round'
+                          strokeLinecap='round'
                         />
                       </svg>
                     </button>
@@ -272,21 +272,21 @@ const ShoppingCart = () => {
                           d='M16.5 11H5.5'
                           stroke=''
                           strokeWidth='1.6'
-                          stroke-linecap='round'
+                          strokeLinecap='round'
                         />
                         <path
                           d='M16.5 11H5.5'
                           stroke=''
                           stroke-opacity='0.2'
                           strokeWidth='1.6'
-                          stroke-linecap='round'
+                          strokeLinecap='round'
                         />
                         <path
                           d='M16.5 11H5.5'
                           stroke=''
                           stroke-opacity='0.2'
                           strokeWidth='1.6'
-                          stroke-linecap='round'
+                          strokeLinecap='round'
                         />
                       </svg>
                     </button>
@@ -308,21 +308,21 @@ const ShoppingCart = () => {
                           d='M11 5.5V16.5M16.5 11H5.5'
                           stroke=''
                           strokeWidth='1.6'
-                          stroke-linecap='round'
+                          strokeLinecap='round'
                         />
                         <path
                           d='M11 5.5V16.5M16.5 11H5.5'
                           stroke=''
                           stroke-opacity='0.2'
                           strokeWidth='1.6'
-                          stroke-linecap='round'
+                          strokeLinecap='round'
                         />
                         <path
                           d='M11 5.5V16.5M16.5 11H5.5'
                           stroke=''
                           stroke-opacity='0.2'
                           strokeWidth='1.6'
-                          stroke-linecap='round'
+                          strokeLinecap='round'
                         />
                       </svg>
                     </button>
@@ -351,7 +351,7 @@ const ShoppingCart = () => {
                     d='M12.7757 5.5L18.3319 11.0562M18.3319 11.0562L12.7757 16.6125M18.3319 11.0562L1.83203 11.0562'
                     stroke='#4F46E5'
                     strokeWidth='1.6'
-                    stroke-linecap='round'
+                    strokeLinecap='round'
                   />
                 </svg>
               </button>
@@ -404,7 +404,7 @@ const ShoppingCart = () => {
                           d='M1 1.5L4.58578 5.08578C5.25245 5.75245 5.58579 6.08579 6 6.08579C6.41421 6.08579 6.74755 5.75245 7.41421 5.08579L11 1.5'
                           stroke='#6B7280'
                           strokeWidth='1.5'
-                          stroke-linecap='round'
+                          strokeLinecap='round'
                           stroke-linejoin='round'
                         ></path>
                       </svg>
@@ -483,7 +483,7 @@ const ShoppingCart = () => {
                           d='M1 1.5L4.58578 5.08578C5.25245 5.75245 5.58579 6.08579 6 6.08579C6.41421 6.08579 6.74755 5.75245 7.41421 5.08579L11 1.5'
                           stroke='#6B7280'
                           strokeWidth='1.5'
-                          stroke-linecap='round'
+                          strokeLinecap='round'
                           stroke-linejoin='round'
                         ></path>
                       </svg>
