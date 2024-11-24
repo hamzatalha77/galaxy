@@ -73,7 +73,7 @@ const PlaceOrder = () => {
                     <path
                       d='M18 12H6'
                       stroke='#111827'
-                      stroke-width='1.6'
+                      strokeWidth='1.6'
                       stroke-linecap='round'
                     ></path>
                   </svg>
@@ -92,7 +92,7 @@ const PlaceOrder = () => {
                     <path
                       d='M12 6V18M18 12H6'
                       stroke='#111827'
-                      stroke-width='1.6'
+                      strokeWidth='1.6'
                       stroke-linecap='round'
                     ></path>
                   </svg>
@@ -113,7 +113,7 @@ const PlaceOrder = () => {
                       <path
                         d='M13.5 13.5L26.5 26.5M26.5 13.5L13.5 26.5'
                         stroke='currentColor'
-                        stroke-width='1.6'
+                        strokeWidth='1.6'
                         stroke-linecap='round'
                       ></path>
                     </g>
@@ -197,7 +197,7 @@ const PlaceOrder = () => {
                     <path
                       d='M18 12H6'
                       stroke='#111827'
-                      stroke-width='1.6'
+                      strokeWidth='1.6'
                       stroke-linecap='round'
                     ></path>
                   </svg>
@@ -216,7 +216,7 @@ const PlaceOrder = () => {
                     <path
                       d='M12 6V18M18 12H6'
                       stroke='#111827'
-                      stroke-width='1.6'
+                      strokeWidth='1.6'
                       stroke-linecap='round'
                     ></path>
                   </svg>
@@ -237,7 +237,7 @@ const PlaceOrder = () => {
                       <path
                         d='M13.5 13.5L26.5 26.5M26.5 13.5L13.5 26.5'
                         stroke='currentColor'
-                        stroke-width='1.6'
+                        strokeWidth='1.6'
                         stroke-linecap='round'
                       ></path>
                     </g>
