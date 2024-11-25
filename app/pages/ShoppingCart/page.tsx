@@ -130,7 +130,7 @@ const ShoppingCart = () => {
                 </div>
                 <div className='flex h-full items-center max-md:mt-3 max-[500px]:justify-center md:justify-end'>
                   <p className='text-center text-lg font-bold leading-8 text-gray-600 transition-all duration-300 group-hover:text-indigo-600'>
-                    $120.05
+                    $120.06
                   </p>
                 </div>
               </div>
