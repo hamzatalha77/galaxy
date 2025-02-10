@@ -11,7 +11,7 @@ import NewsLetter from './components/NewsLetter'
 
 export default function page() {
   return (
-    <div>
+    <React.Fragment>
       <Hero />
       <Categories />
       <Products />
@@ -21,6 +21,6 @@ export default function page() {
       <Features />
       <Portfolio />
       <NewsLetter />
-    </div>
+    </React.Fragment>
   )
 }

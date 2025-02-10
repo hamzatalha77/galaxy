@@ -44,7 +44,7 @@ const page = () => {
                   stroke='black'
                   strokeWidth='1.5'
                   strokeLinecap='round'
-                  stroke-linejoin='round'
+                  strokeLinejoin='round'
                 />
               </svg>
               <span className='pl-2 pr-3 text-lg font-normal leading-8 text-black transition-all duration-500 group-hover:text-indigo-600'>
@@ -118,7 +118,7 @@ const page = () => {
                 stroke='#111827'
                 strokeWidth='1.6'
                 strokeLinecap='round'
-                stroke-linejoin='round'
+                strokeLinejoin='round'
               />
             </svg>
           </div>
@@ -164,7 +164,7 @@ const page = () => {
                       stroke='#111827'
                       strokeWidth='1.6'
                       strokeLinecap='round'
-                      stroke-linejoin='round'
+                      strokeLinejoin='round'
                     />
                   </svg>
                 </div>
@@ -195,7 +195,7 @@ const page = () => {
                       stroke='#111827'
                       strokeWidth='1.6'
                       strokeLinecap='round'
-                      stroke-linejoin='round'
+                      strokeLinejoin='round'
                     />
                   </svg>
                 </div>
@@ -231,7 +231,7 @@ const page = () => {
                     stroke='#111827'
                     strokeWidth='1.6'
                     strokeLinecap='round'
-                    stroke-linejoin='round'
+                    strokeLinejoin='round'
                   />
                 </svg>
               </div>
@@ -248,7 +248,7 @@ const page = () => {
                     stroke='white'
                     strokeWidth='1.6'
                     strokeLinecap='round'
-                    stroke-linejoin='round'
+                    strokeLinejoin='round'
                   />
                 </svg>
                 Search
@@ -291,7 +291,7 @@ const page = () => {
                           stroke='currentColor'
                           strokeWidth='1.6'
                           strokeLinecap='round'
-                          stroke-linejoin='round'
+                          strokeLinejoin='round'
                         ></path>
                       </svg>
                     </button>
@@ -379,7 +379,7 @@ const page = () => {
                     stroke='#111827'
                     strokeWidth='1.6'
                     strokeLinecap='round'
-                    stroke-linejoin='round'
+                    strokeLinejoin='round'
                   />
                 </svg>
               </div>

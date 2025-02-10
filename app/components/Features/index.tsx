@@ -31,7 +31,7 @@ const Features = () => {
                       stroke='white'
                       strokeWidth='2'
                       strokeLinecap='round'
-                      stroke-linejoin='round'
+                      strokeLinejoin='round'
                     ></path>
                   </svg>
                 </div>
@@ -56,7 +56,7 @@ const Features = () => {
                       stroke='white'
                       strokeWidth='1.6'
                       strokeLinecap='round'
-                      stroke-linejoin='round'
+                      strokeLinejoin='round'
                     ></path>
                   </svg>
                 </button>
@@ -111,7 +111,7 @@ const Features = () => {
                     stroke='white'
                     strokeWidth='1.6'
                     strokeLinecap='round'
-                    stroke-linejoin='round'
+                    strokeLinejoin='round'
                   ></path>
                 </svg>
               </button>
@@ -156,7 +156,7 @@ const Features = () => {
                     stroke='white'
                     strokeWidth='1.6'
                     strokeLinecap='round'
-                    stroke-linejoin='round'
+                    strokeLinejoin='round'
                   ></path>
                 </svg>
               </button>

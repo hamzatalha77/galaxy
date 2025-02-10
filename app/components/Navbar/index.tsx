@@ -402,7 +402,7 @@ const Navbar = () => {
                                 stroke='#4F46E5'
                                 strokeWidth='1.6'
                                 strokeLinecap='round'
-                                stroke-linejoin='round'
+                                strokeLinejoin='round'
                               ></path>
                             </svg>
                           </a>

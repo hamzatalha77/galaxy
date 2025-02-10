@@ -405,7 +405,7 @@ const ShoppingCart = () => {
                           stroke='#6B7280'
                           strokeWidth='1.5'
                           strokeLinecap='round'
-                          stroke-linejoin='round'
+                          strokeLinejoin='round'
                         ></path>
                       </svg>
                     </button>
@@ -484,7 +484,7 @@ const ShoppingCart = () => {
                           stroke='#6B7280'
                           strokeWidth='1.5'
                           strokeLinecap='round'
-                          stroke-linejoin='round'
+                          strokeLinejoin='round'
                         ></path>
                       </svg>
                     </button>
