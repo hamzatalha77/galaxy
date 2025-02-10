@@ -186,7 +186,7 @@ const SearchProducts = () => {
                             name='color[]'
                             value='blue'
                             type='checkbox'
-                            checked
+                            defaultChecked
                             className='h-4 w-4 rounded border-gray-300 text-indigo-600 focus:ring-indigo-500'
                           />
                           <label
@@ -276,9 +276,9 @@ const SearchProducts = () => {
                           data-slot='icon'
                         >
                           <path
-                            fill-rule='evenodd'
+                            fillRule='evenodd'
                             d='M4 10a.75.75 0 0 1 .75-.75h10.5a.75.75 0 0 1 0 1.5H4.75A.75.75 0 0 1 4 10Z'
-                            clip-rule='evenodd'
+                            clipRule='evenodd'
                           />
                         </svg>
                       </span>
@@ -323,7 +323,7 @@ const SearchProducts = () => {
                           name='category[]'
                           value='travel'
                           type='checkbox'
-                          checked
+                          defaultChecked
                           className='h-4 w-4 rounded border-gray-300 text-indigo-600 focus:ring-indigo-500'
                         />
                         <label
@@ -394,9 +394,9 @@ const SearchProducts = () => {
                           data-slot='icon'
                         >
                           <path
-                            fill-rule='evenodd'
+                            fillRule='evenodd'
                             d='M4 10a.75.75 0 0 1 .75-.75h10.5a.75.75 0 0 1 0 1.5H4.75A.75.75 0 0 1 4 10Z'
-                            clip-rule='evenodd'
+                            clipRule='evenodd'
                           />
                         </svg>
                       </span>
@@ -486,7 +486,7 @@ const SearchProducts = () => {
                           name='size[]'
                           value='40l'
                           type='checkbox'
-                          checked
+                          defaultChecked
                           className='h-4 w-4 rounded border-gray-300 text-indigo-600 focus:ring-indigo-500'
                         />
                         <label
@@ -647,9 +647,9 @@ const SearchProducts = () => {
                           data-slot='icon'
                         >
                           <path
-                            fill-rule='evenodd'
+                            fillRule='evenodd'
                             d='M4 10a.75.75 0 0 1 .75-.75h10.5a.75.75 0 0 1 0 1.5H4.75A.75.75 0 0 1 4 10Z'
-                            clip-rule='evenodd'
+                            clipRule='evenodd'
                           />
                         </svg>
                       </span>
@@ -694,7 +694,7 @@ const SearchProducts = () => {
                           name='color[]'
                           value='blue'
                           type='checkbox'
-                          checked
+                          defaultChecked
                           className='h-4 w-4 rounded border-gray-300 text-indigo-600 focus:ring-indigo-500'
                         />
                         <label
@@ -782,9 +782,9 @@ const SearchProducts = () => {
                           data-slot='icon'
                         >
                           <path
-                            fill-rule='evenodd'
+                            fillRule='evenodd'
                             d='M4 10a.75.75 0 0 1 .75-.75h10.5a.75.75 0 0 1 0 1.5H4.75A.75.75 0 0 1 4 10Z'
-                            clip-rule='evenodd'
+                            clipRule='evenodd'
                           />
                         </svg>
                       </span>
@@ -829,7 +829,7 @@ const SearchProducts = () => {
                           name='category[]'
                           value='travel'
                           type='checkbox'
-                          checked
+                          defaultChecked
                           className='h-4 w-4 rounded border-gray-300 text-indigo-600 focus:ring-indigo-500'
                         />
                         <label
@@ -900,9 +900,9 @@ const SearchProducts = () => {
                           data-slot='icon'
                         >
                           <path
-                            fill-rule='evenodd'
+                            fillRule='evenodd'
                             d='M4 10a.75.75 0 0 1 .75-.75h10.5a.75.75 0 0 1 0 1.5H4.75A.75.75 0 0 1 4 10Z'
-                            clip-rule='evenodd'
+                            clipRule='evenodd'
                           />
                         </svg>
                       </span>
@@ -992,7 +992,7 @@ const SearchProducts = () => {
                           name='size[]'
                           value='40l'
                           type='checkbox'
-                          checked
+                          defaultChecked
                           className='h-4 w-4 rounded border-gray-300 text-indigo-600 focus:ring-indigo-500'
                         />
                         <label
