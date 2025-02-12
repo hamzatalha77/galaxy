@@ -248,7 +248,6 @@ const Navbar = () => {
                             </div>
                           </a>
                         </li>
-                        {/* Add more features here */}
                       </ul>
                       <ul className='text-sm text-gray-700'>
                         <h6 className='mb-2 text-sm font-medium text-gray-500'>
