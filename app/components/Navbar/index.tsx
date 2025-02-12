@@ -207,7 +207,7 @@ const Navbar = () => {
                                 Notification
                               </h5>
                               <p className='text-xs font-medium text-gray-400'>
-                                Real-time notifications always keep you up to
+                                Real-times notifications always keep you up to
                                 date
                               </p>
                             </div>
