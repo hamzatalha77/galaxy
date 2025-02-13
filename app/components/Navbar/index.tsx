@@ -283,7 +283,7 @@ const Navbar = () => {
                               </h5>
                               <p className='text-xs font-medium text-gray-400'>
                                 Learn how blockchain can benefit your
-                                organization
+                                organizatio
                               </p>
                             </div>
                           </a>
