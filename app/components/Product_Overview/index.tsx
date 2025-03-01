@@ -11,9 +11,7 @@ const images = [
   'https://pagedone.io/asset/uploads/1700472379.png',
   'https://pagedone.io/asset/uploads/1711622397.png',
   'https://pagedone.io/asset/uploads/1711622408.png',
-
   'https://pagedone.io/asset/uploads/1711622419.png',
-
   'https://pagedone.io/asset/uploads/1711622437.png'
 ]
 const Product_Overview = () => {
